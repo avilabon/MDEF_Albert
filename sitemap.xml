@@ -16,17 +16,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term1/01-Bootcamp/</loc>
+         <loc>https://avilabon.github.io/MDEF_Albert/term1/01-Landing/</loc>
          <lastmod>2023-10-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term1/02-Atlas%20of%20Weak%20Signals/</loc>
+         <loc>https://avilabon.github.io/MDEF_Albert/term1/02-Documenting/</loc>
          <lastmod>2023-10-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term1/01-Landing/Landing%20week/</loc>
+         <loc>https://avilabon.github.io/MDEF_Albert/term1/03-DesignStudio01/</loc>
+         <lastmod>2023-10-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avilabon.github.io/MDEF_Albert/term1/04-AtlasOfWeakSignals/</loc>
+         <lastmod>2023-10-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avilabon.github.io/MDEF_Albert/term1/05-TheMachineParadox/</loc>
          <lastmod>2023-10-29</lastmod>
          <changefreq>daily</changefreq>
     </url>
