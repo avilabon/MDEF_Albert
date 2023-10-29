@@ -1,6 +1,6 @@
 ---
 
-hide:
+show:
   - navigation
   - toc
 ---
