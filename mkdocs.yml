@@ -63,7 +63,7 @@ theme:
     # - navigation.sections
     #- navigation.tabs
     #- navigation.tabs.sticky
-    #- navigation.top
+    - navigation.top
     - navigation.tracking
 
 plugins:

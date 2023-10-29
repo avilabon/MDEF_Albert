@@ -1,8 +1,9 @@
 ---
-
 show:
   - navigation
-  - toc
+
+hide:
+  -  toc
 ---
 
 ---
