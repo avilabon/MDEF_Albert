@@ -34,9 +34,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
-
-def define_env(env):
-    @env.macro
-    def insert_banner():
-        environment = Environment(loader=FileSystemLoader("custom_theme/templates/"))
-        template = environment.get_template("banner.html")
