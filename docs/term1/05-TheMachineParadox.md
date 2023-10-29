@@ -1,0 +1,1 @@
+![Moravec's paradox](../images/MoravecsParadox.jpg)
