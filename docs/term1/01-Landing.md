@@ -41,6 +41,16 @@ Map of the countries of origin of classmates
 
 There is nothing better to immerse yourself in a new area than to listen to the people who live there. To get to know the neighborhood better we have taken a tour to visit some interesting and transformative projects. I have been following the Biciclot - BiciHub project for a long time. The others have been an inspiring discovery for me.
 
+<div class="grid cards" markdown>
+
+- :fontawesome-brands-html5: __HTML__ for content and structure
+- :fontawesome-brands-js: __JavaScript__ for interactivity
+- :fontawesome-brands-css3: __CSS__ for text running out of boxes
+- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+
+</div>
+
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1awOvkyxilKIILLqmyBntWZtJ_RRQIz8&hl=ca&ehbc=2E312F" width="800" height="480"></iframe>
 Click at the icons in the map to see a brief description and the photos of each place we visited.
 
