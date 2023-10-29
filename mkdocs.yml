@@ -1,11 +1,11 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: ALBERT VILA - MDEF Logbook
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
-repo_name: 'Name : Github Repo'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_author: Albert Vila
+copyright: Copyleft 2023 "Albert Vila" - GNU Free Documentation License
+repo_name: 'ALBERT-MDEF'
+site_url: https://avilabon.github.io/MDEF_Albert/
+repo_url: 'https://avilabon.github.io/MDEF_Albert/'
 
 
 nav:
