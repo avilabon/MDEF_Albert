@@ -31,7 +31,8 @@ The very constant presence of the coordinator is very reassuring. Thank you Chia
 
 ### Classmatess from all over the world!
 
-Map of the countries of origin of classmates
+Map of the countries of origin of classmates. 
+Click on the red dots on the map to access the classmate's name, country and MDEF website
 
 <iframe src="https://qgiscloud.com/albertvila/ClassDiversity" width="800" height="500">
 </iframe>
