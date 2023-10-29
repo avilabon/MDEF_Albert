@@ -1,5 +1,8 @@
 ---
-title: Welcome
+title: Home
+hide:
+  - navigation
+  - toc
 ---
 
 ---
