@@ -61,7 +61,7 @@ theme:
     - navigation.instant
     # - navigation.prune
     # - navigation.sections
-    #- navigation.tabs
+    - navigation.tabs
     #- navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -99,6 +99,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+     
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark

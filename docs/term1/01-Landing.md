@@ -44,10 +44,10 @@ There is nothing better to immerse yourself in a new area than to listen to the 
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
+-  __La Plataforma__ An old printing press transformed into a contemporary art gallery and production studio. Http://laplataformabcn.com
+-  __TransfoLAB BCN__ TransfoLAB BCN is a centre dedicated to the creative ecosystem in Barcelona focused on design, innovation, production and experimentation with waste, circular economy and environmental sustainability. Https://www.transfolabbcn.com/
+-  __BiciHub__  An incubator of ideas and alliances for the implementation of sustainable mobility by bicycle through the cooperative model and the social networks. Http://bicihub.barcelona/
+-  __Bioma__ ... 
 
 </div>
 
