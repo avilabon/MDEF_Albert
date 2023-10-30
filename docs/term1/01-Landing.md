@@ -76,8 +76,6 @@ This is the cradle of design!
     - Student Lounge, Cafeteria and Terraces
 
 ![Visit to Elisava video](../images/ElisavaVisitLR4.gif)
-Images 
-
 
 ### Laura's talk
 
@@ -85,14 +83,12 @@ Impossible to remain indifferent!
 
 ![Shaking concepts](../images/Concepts.png){: style="height:500px;width:500px"}
 
-
 Links:
 
 ![Shaking concepts](../images/biofriction-logo-moving-trans.gif) 
 
 [Biofriction project](https://biofriction.org/) 
 
-
 ### Final reflection
 
---- Our minds has been shaken with a multitude of things and concepts. Many new ones, others already old friends, others that have metamorphosed since last time... A great week, it is going to be difficult to calm our minds after so much overstimulation!
+***Reflection:*** Our minds has been shaken with a multitude of things and concepts. Many new ones, others already old friends, others that have metamorphosed since last time... A great week, it is going to be difficult to calm our minds after so much overstimulation!
