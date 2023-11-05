@@ -1,0 +1,5 @@
+![BlueBin](../images/BlueBin.png) 
+![GreenBin](../images/GreenBin.png)
+![YellowBin](../images/YellowBin.png) 
+![BrownBin](../images/BrownBin.png) 
+![GreyBin](../images/GreyBin.png) 
