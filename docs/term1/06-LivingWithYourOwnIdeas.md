@@ -1,7 +1,7 @@
 
 ## Activity 1. Magic machines workshop: make a companion
 
-### PETTA
+### Public presentation of Petta
 
 This companion is a kind of live being, at least a piece of organic matter already crafted by nature when we met each other. As a designer I just created a protective capsule and a room. In the room, my companion has three posters about the future. It’s Plan A is to become a Tangerine Tree, Plan B is more “Carpe Diem” let’s flow and Plan C is the same as Plan A but with a longer path, with more steps and with a more blurred final destination. There is a device with 3 buttons that allow to change from one plan to another. During the creation I was thinking in acceptance or rather self-acceptance	
 It is not a pet. I repeat, it is not a pet!
