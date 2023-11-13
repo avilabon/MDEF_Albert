@@ -28,6 +28,8 @@ We invent conservation actions, we test study methodologies with new techniques,
 
 ### Activity 2. 
 
+The exercise consists of creating a prototype from a prototype or project of a colleague but based on another prototyping role.
+
 Minnie's project consists of a human figure made of discarded ballot papers that comes out of the wall and extends its arm towards people passing by the hall. Although it is not conceived as a prototype but rather a provocative art piece, It could be seen as a provotype that has a lot of role 2 and role 4 embedded.
 
 ![ BallotsHuman ](../images/MinnieElectoralBallotsHuman.jpg)
