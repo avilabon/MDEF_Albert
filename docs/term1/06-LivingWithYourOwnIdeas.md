@@ -61,11 +61,13 @@ that cars and bicycles learn to share space, how can I help?
 
 MY HYPOTHESIS
 
-● Communication will improve relationships,
-● Good vibes, vibrations, feelings are contagious as bad feelings,
-● Being kinder helps everyone
+- Communication will improve relationships,
+- Good vibes, vibrations, feelings are contagious as bad feelings,
+- Being kinder helps everyone
+
 ... so ...
-● A wearable communication device (clothes or helmet) that can give
+
+- A wearable communication device (clothes or helmet) that can give
 indications, warnings and also a more empathic communication messages
 such as “Thank you! Hello! I’m sorry!“ to the car drivers may help.
 

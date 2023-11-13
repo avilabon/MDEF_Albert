@@ -83,7 +83,7 @@ Impossible to remain indifferent!
 
 ![Shaking concepts](../images/Concepts.png){: style="height:500px;width:500px"}
 
-Links:
+Link:
 
 ![Shaking concepts](../images/biofriction-logo-moving-trans.gif) 
 

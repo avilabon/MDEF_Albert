@@ -28,7 +28,7 @@ We invent conservation actions, we test study methodologies with new techniques,
 
 ### Activity 2. 
 
-Minnie's project consists of a human figure made of discarded ballot papers that comes out of the wall and extends its arm towards people passing by the hall. Aunque no esta concebida como un prototipo sinó más bien como una obra de arte, la veo como un provocatipo. Although it is not conceived as a prototype but rather a provocative art piece, It could be seen as a provotype that has a lot of role 2 and role 4 embedded.
+Minnie's project consists of a human figure made of discarded ballot papers that comes out of the wall and extends its arm towards people passing by the hall. Although it is not conceived as a prototype but rather a provocative art piece, It could be seen as a provotype that has a lot of role 2 and role 4 embedded.
 
 ![ BallotsHuman ](../images/MinnieElectoralBallotsHuman.jpg)
 
