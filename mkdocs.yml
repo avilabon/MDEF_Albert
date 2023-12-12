@@ -19,7 +19,9 @@ nav:
   - Term 1:
      - Landing:  term1/01-Landing.md
      - Documenting design: term1/02-Documenting.md
-     - Design Studio 01: term1/03-DesignStudio01.md
+     - Design Studio 01:
+        - Design Studio 01: term1/03-DesignStudio/03-DesignStudio01.md
+        - DS Intervention 01: term1/03-DesignStudio/03-Intervention01.md
      - Atlas of Weak Signals: term1/04-AtlasOfWeakSignals.md
      - The Machine Paradox: term1/05-TheMachineParadox.md
      - Living With Your Own Ideas: term1/06-LivingWithYourOwnIdeas.md
