@@ -1,6 +1,6 @@
 ## Roles of Prototyping in 1PP Research through Design
 
-![ Perspectives ](../images/3P.png)
+![ Perspectives ](../../images/3P.png)
 3 Perspectives based on Tomico et al. 
 https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixed_Perspectives_in_Empathic_Design_Not_One_Perspective_Encompasses_All
 
@@ -18,7 +18,7 @@ https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixe
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/48763713?h=2779531d3a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 -   Role 4: The process of prototyping as a vehicle for inquiry
 
-![ Extended workspace ](../images/ExpandWorkspace_AVB.png)
+![ Extended workspace ](../../images/ExpandWorkspace_AVB.png)
 
 ### Activity 1. A reflection on the main roles of prototyping and other design activities that you want to use based on the context you are in.
 
@@ -32,5 +32,5 @@ The exercise consists of creating a prototype from a prototype or project of a c
 
 Minnie's project consists of a human figure made of discarded ballot papers that comes out of the wall and extends its arm towards people passing by the hall. Although it is not conceived as a prototype but rather a provocative art piece, It could be seen as a provotype that has a lot of role 2 and role 4 embedded.
 
-![ BallotsHuman ](../images/MinnieElectoralBallotsHuman.jpg)
+![ BallotsHuman ](../../images/MinnieElectoralBallotsHuman.jpg)
 
