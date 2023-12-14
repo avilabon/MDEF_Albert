@@ -1,6 +1,6 @@
 ## Roles of Prototyping in 1PP Research through Design
 
-![ Perspectives ](../../images/3P.png)
+![ Perspectives ](../../images/3P.png){width=600}
 3 Perspectives based on Tomico et al. 
 https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixed_Perspectives_in_Empathic_Design_Not_One_Perspective_Encompasses_All
 
