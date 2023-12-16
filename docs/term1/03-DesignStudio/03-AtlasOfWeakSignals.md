@@ -21,7 +21,7 @@ I have selected the following weak signals to include within my design space:
 I am not surprised to see that many of these cards are related to my work background and my previous studies.
 
 ### My multiscalar design space
-![WIP](../../images/WIP.png)
+![WIP](../../images/WIP.png){width=400}
 
 ### My design space
 

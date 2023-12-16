@@ -3,26 +3,8 @@
 ## Forensic report (Group activity)
 ** Team members:**
 [Anna Fedele](https://annafedele.github.io/mdef/), [Dhrishya Ramadass](https://dhrishyaramadass.github.io/mdefwebsite/), [Mihnea Nicolae Patrascu](https://grayson-iaac.github.io/MDEF/), [Nicolò Baldi](https://niente010.github.io/MDEF_website/#welcome), [Qianyin Du](https://33dudu.github.io/magicreator/) and [Albert Vila Bonfill](https://avilabon.github.io/MDEF_Albert/)
+
 ### Examination
-<div class="sketchfab-embed-wrapper">
-    <iframe 
-        title="3D Printer" 
-        width= "100%"
-        height="400px"
-        frameborder="0" 
-        ui-theme="dark"
-        preload="0"
-        allowfullscreen 
-        mozallowfullscreen="true" 
-        webkitallowfullscreen="true" 
-        allow="autoplay; fullscreen; xr-spatial-tracking" 
-        xr-spatial-tracking 
-        execution-while-out-of-viewport 
-        execution-while-not-rendered 
-        web-share 
-        src="https://sketchfab.com/models/e502641d13b24bd5b1fdc4618c199533/embed?autostart=1&ui_theme=dark">
-    </iframe>
-</div>
 
 - Serial number: 01 150929 1189
 - Brand: FUNDACIOCIM
@@ -52,7 +34,26 @@ The 3D printer is constructed using a combination of mechanical, electronic, and
 
 The 3D printer still functions, but it's an older, unstable model with low accuracy and print quality.
 
-<iframe title="3D Printer" width= "100%" height="400px" frameborder="0" ui-theme="dark" preload="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e502641d13b24bd5b1fdc4618c199533/embed?autostart=1&ui_theme=dark"> </iframe>
+<div class="sketchfab-embed-wrapper">
+    <iframe 
+        title="3D Printer" 
+        width= "100%"
+        height="400px"
+        frameborder="0" 
+        ui-theme="dark"
+        preload="0"
+        allowfullscreen 
+        mozallowfullscreen="true" 
+        webkitallowfullscreen="true" 
+        allow="autoplay; fullscreen; xr-spatial-tracking" 
+        xr-spatial-tracking 
+        execution-while-out-of-viewport 
+        execution-while-not-rendered 
+        web-share 
+        src="https://sketchfab.com/models/e502641d13b24bd5b1fdc4618c199533/embed?autostart=1&ui_theme=dark">
+    </iframe>
+</div>
+
 
 
 [Team Forensic report-web](https://grayson-iaac.github.io/MDEF/week3.html)
