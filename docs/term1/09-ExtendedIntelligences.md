@@ -2,7 +2,7 @@
 
 ![WIP](../images/WIP.png){width=400}
 
-## Finding and interesting dataset
+## Finding an interesting dataset
 
 ![WIP](../images/DatasetEI_Ex1.PNG)
 
