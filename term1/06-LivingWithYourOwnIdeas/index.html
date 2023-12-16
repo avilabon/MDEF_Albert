@@ -63,7 +63,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -990,7 +1001,7 @@
 <h3 id="public-presentation-of-petta">Public presentation of Petta<a class="headerlink" href="#public-presentation-of-petta" title="Permanent link">&para;</a></h3>
 <p>This companion is a kind of live being, at least a piece of organic matter already crafted by nature when we met each other. As a designer I just created a protective capsule and a room. In the room, my companion has three posters about the future. It’s Plan A is to become a Tangerine Tree, Plan B is more “Carpe Diem” let’s flow and Plan C is the same as Plan A but with a longer path, with more steps and with a more blurred final destination. There is a device with 3 buttons that allow to change from one plan to another. During the creation I was thinking in acceptance or rather self-acceptance <br />
 It is not a pet. I repeat, it is not a pet!</p>
-<p><img alt="PETTA" src="../../images/PETTA1.PNG" /></p>
+<p><a class="glightbox" href="../../images/PETTA1.PNG" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="PETTA" src="../../images/PETTA1.PNG" /></a></p>
 <h4 id="first-feelings">First feelings<a class="headerlink" href="#first-feelings" title="Permanent link">&para;</a></h4>
 <p>I imagine that this companion will evolve, like us, like most of us! I imagine that it will change it’s appearance. I also imagine that I’ll be able to talk to it and ask it how its day went. And in my future predictions I imagine that one day I will get up in the morning and tell it, friend, are you feeling sick? You&rsquo;re turning a little green! Or maybe, I see you somewhat changed, are you leaving your hair long?</p>
 <h3 id="living-together-living-with-petta-diary">Living Together. Living with Petta diary.<a class="headerlink" href="#living-together-living-with-petta-diary" title="Permanent link">&para;</a></h3>
@@ -1015,7 +1026,7 @@ It is not a pet. I repeat, it is not a pet!</p>
 <li>16:00 I give him a house key so he can choose freely.</li>
 <li>17:00 PEETA is still at home. I guess PEETA has freely choose to stay. So PEETA let&rsquo;s establish some rules of coexistence…</li>
 </ul>
-<p><img alt="PETTA2" src="../../images/PETTA2.PNG" /></p>
+<p><a class="glightbox" href="../../images/PETTA2.PNG" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="PETTA2" src="../../images/PETTA2.PNG" /></a></p>
 <h2 id="activity-2-first-person-experience">Activity 2. First person experience<a class="headerlink" href="#activity-2-first-person-experience" title="Permanent link">&para;</a></h2>
 <h3 id="bikes-and-cars-towards-a-more-empathetic-relationship">Bikes and cars, towards a more empathetic relationship<a class="headerlink" href="#bikes-and-cars-towards-a-more-empathetic-relationship" title="Permanent link">&para;</a></h3>
 <h4 id="21-main-motivationidea-can-we-do-something-to-improve-sustainable-mobility">2.1. Main motivation/idea: Can we do something to improve sustainable mobility?<a class="headerlink" href="#21-main-motivationidea-can-we-do-something-to-improve-sustainable-mobility" title="Permanent link">&para;</a></h4>
@@ -1234,5 +1245,5 @@ just to meet deadlines. I think I&rsquo;m more of a long-term challenges.</p>
       <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>

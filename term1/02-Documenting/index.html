@@ -63,7 +63,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -933,11 +944,11 @@
   <h1>Documenting design</h1>
 
 <h2 id="documenting-design-concepts">Documenting design concepts<a class="headerlink" href="#documenting-design-concepts" title="Permanent link">&para;</a></h2>
-<p><img alt="Communication" src="../../images/Communication.jpg" /></p>
+<p><a class="glightbox" href="../../images/Communication.jpg" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Communication" src="../../images/Communication.jpg" /></a></p>
 <p>The design documentation will be a common thread throughout the program. Design is not understood as the final product but goes beyond that. Special emphasis is placed on documenting the entire design process to provide a good understanding of the context and paths followed. Documentation will also help us to clarify our next steps and to convey collaboration.</p>
 <p>We have also taken a look at the main elements to take into account when documenting as the introduction of the key characters and emotions to give a human touch, the context, the steps to the solution, the conflicts. As well as the use of a clear plot structure and the incorporation of visual elements.</p>
 <p><strong><em>Reflection:</em></strong> Humans started documenting long ago. Now we live in a the Information Society. I hope to know how to walk the fine line between information and over-information!</p>
-<p><img alt="History of documenting and communication" src="../../images/EvolutionComunication.JPG" /></p>
+<p><a class="glightbox" href="../../images/EvolutionComunication.JPG" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="History of documenting and communication" src="../../images/EvolutionComunication.JPG" /></a></p>
 <h2 id="creating-this-site">Creating this site<a class="headerlink" href="#creating-this-site" title="Permanent link">&para;</a></h2>
 <h3 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">&para;</a></h3>
 <p>I&rsquo;d rather not document that part. I just want to thank Josep, Adai, Oscar from de CodeLab and my classmate Minnie for their patience and help. </p>
@@ -1125,5 +1136,5 @@
       <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>

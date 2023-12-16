@@ -63,7 +63,18 @@
     
     
     
-  </head>
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -877,7 +888,7 @@
 
 
 <h1 id="landing-week">Landing week<a class="headerlink" href="#landing-week" title="Permanent link">&para;</a></h1>
-<p><img alt="landing" src="../../images/albatroslandinggif.gif" /> </p>
+<p><a class="glightbox" href="../../images/albatroslandinggif.gif" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="landing" src="../../images/albatroslandinggif.gif" /></a> </p>
 <p>It&rsquo;s been a bit of a bumpy landing for me. Curiously, the landing was not on dry land but on a ship that is leaving with an open, uncertain and exciting destination.</p>
 <p>I&rsquo;m going to have to fight with the helm to try to steer this boat. At the moment it is a little heeled due to old currents but we hope to focus soon and correct course.</p>
 <details class="info">
@@ -930,12 +941,12 @@ This is the cradle of design!</p>
 <li>Student Lounge, Cafeteria and Terraces</li>
 </ul>
 </details>
-<p><img alt="Visit to Elisava video" src="../../images/ElisavaVisitLR4.gif" /></p>
+<p><a class="glightbox" href="../../images/ElisavaVisitLR4.gif" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Visit to Elisava video" src="../../images/ElisavaVisitLR4.gif" /></a></p>
 <h3 id="lauras-talk">Laura&rsquo;s talk<a class="headerlink" href="#lauras-talk" title="Permanent link">&para;</a></h3>
 <p>Impossible to remain indifferent!</p>
-<p><img alt="Shaking concepts" src="../../images/Concepts.png" style="height:500px;width:500px" /></p>
+<p><a class="glightbox" href="../../images/Concepts.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Shaking concepts" src="../../images/Concepts.png" style="height:400px;width:400px" /></a></p>
 <p>Link:</p>
-<p><img alt="Shaking concepts" src="../../images/biofriction-logo-moving-trans.gif" /> </p>
+<p><a class="glightbox" href="../../images/biofriction-logo-moving-trans.gif" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img alt="Shaking concepts" src="../../images/biofriction-logo-moving-trans.gif" style="height:100px" /></a></p>
 <p><a href="https://biofriction.org/">Biofriction project</a> </p>
 <h3 id="final-reflection">Final reflection<a class="headerlink" href="#final-reflection" title="Permanent link">&para;</a></h3>
 <p><strong><em>Reflection:</em></strong> Our minds has been shaken with a multitude of things and concepts. Many new ones, others already old friends, others that have metamorphosed since last time&hellip; A great week, it is going to be difficult to calm our minds after so much overstimulation!</p>
@@ -1048,5 +1059,5 @@ This is the cradle of design!</p>
       <script src="../../assets/javascripts/bundle.d7c377c4.min.js"></script>
       
     
-  </body>
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
 </html>
