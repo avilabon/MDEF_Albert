@@ -47,6 +47,7 @@ extra:
 theme:
   name: material
   palette:
+    # scheme: slate
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: grey
     accent: lime
@@ -70,11 +71,17 @@ theme:
     #- navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
+    - content.code.copy
 
 plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  #- glightbox:
+   #   zoomable: true
+    #  draggable: true
+     # skip_classes:
+      #  - skip-lightbox
 
 markdown_extensions:
   - extra
