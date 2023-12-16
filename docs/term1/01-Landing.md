@@ -81,11 +81,11 @@ This is the cradle of design!
 
 Impossible to remain indifferent!
 
-![Shaking concepts](../images/Concepts.png){: style="height:500px;width:500px"}
+![Shaking concepts](../images/Concepts.png){: style="height:400px;width:400px"}
 
 Link:
 
-![Shaking concepts](../images/biofriction-logo-moving-trans.gif) 
+![Shaking concepts](../images/biofriction-logo-moving-trans.gif){: style="height:100px"}
 
 [Biofriction project](https://biofriction.org/) 
 

@@ -1,6 +1,7 @@
 ## Roles of Prototyping in 1PP Research through Design
 
-![ Perspectives ](../../images/3P.png){width=600}
+![ Perspectives ](../../images/3P.png){width=400}
+
 3 Perspectives based on Tomico et al. 
 https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixed_Perspectives_in_Empathic_Design_Not_One_Perspective_Encompasses_All
 
@@ -26,7 +27,7 @@ https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixe
 
 We invent conservation actions, we test study methodologies with new techniques, we create coexistence policies that we adapt and protocolize as they give results. I guess everything is closer to roles 1 and 2.
 
-### Activity 2. 
+### Activity 2. Changing roles
 
 The exercise consists of creating a prototype from a prototype or project of a colleague but based on another prototyping role.
 
