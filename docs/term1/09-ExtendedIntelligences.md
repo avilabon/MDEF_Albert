@@ -7,8 +7,11 @@
 ![WIP](../images/DatasetEI_Ex1.PNG)
 
 ## Designing a project that take advantage of AI technology
-Team members: 
-[Qianyin Du](https://33dudu.github.io/magicreator/), [Francisca Herrera](https://panchipunchi.github.io/mdef1/) , [Emmanuelle Pangilinan](https://minnie-at-iaac.github.io/) and [Albert Vila Bonfill](https://avilabon.github.io/MDEF_Albert/)
+**Team members:**
+[Qianyin Du](https://33dudu.github.io/magicreator/),
+[Francisca Herrera](https://panchipunchi.github.io/mdef1/),
+[Emmanuelle Pangilinan](https://minnie-at-iaac.github.io/) and
+[Albert Vila Bonfill](https://avilabon.github.io/MDEF_Albert/)
 
 #### Ideating the project with AI Meets Design Toolkit
 [AI Meets Design Toolkit](https://aixdesign.co/projects/toolkit)

@@ -1,7 +1,7 @@
 ![Moravec's paradox](../images/MoravecsParadox.jpg){width=450}
 
 ## Forensic report (Group activity)
-** Team members:**
+**Team members:**
 [Anna Fedele](https://annafedele.github.io/mdef/), [Dhrishya Ramadass](https://dhrishyaramadass.github.io/mdefwebsite/), [Mihnea Nicolae Patrascu](https://grayson-iaac.github.io/MDEF/), [Nicolò Baldi](https://niente010.github.io/MDEF_website/#welcome), [Qianyin Du](https://33dudu.github.io/magicreator/) and [Albert Vila Bonfill](https://avilabon.github.io/MDEF_Albert/)
 
 ### Examination
@@ -73,6 +73,6 @@ The 3D printer still functions, but it's an older, unstable model with low accur
 **Slideshow**
 <iframe style="border: 0px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FcLFrMEDN6GybFAvQkN2E2G%2FLifeX-Presentation%3Fpage-id%3D21%253A2%26type%3Ddesign%26node-id%3D22-31%26viewport%3D584%252C397%252C0.15%26t%3De066V1nWbNjhBLNr-1%26scaling%3Dcontain%26mode%3Ddesign" allowfullscreen></iframe>
 
-***Reflections***
+##Reflections
 
 ![WIP](../images/WIP.png){width=400}
