@@ -1,11 +1,12 @@
 ## Roles of Prototyping in 1PP Research through Design
 
-![ Perspectives ](../../images/3P.png){width=400}
+![ Perspectives ](../../images/3P.png){width=500px}
 
 3 Perspectives based on Tomico et al. 
 https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixed_Perspectives_in_Empathic_Design_Not_One_Perspective_Encompasses_All
 
-***Reflection:*** The combination of the three perspectives seems to be a good formula to enrich design decisions. I think each perspective brings something meaningful to the design. 1PP gives us more sensitivity, empathy towards users and, why not, also legitimacy.
+#### Reflection:
+The combination of the three perspectives seems to be a good formula to enrich design decisions. I think each perspective brings something meaningful to the design. 1PP gives us more sensitivity, empathy towards users and, why not, also legitimacy.
 
 ### The Roles
 
@@ -23,7 +24,8 @@ https://www.researchgate.net/publication/307605892_A_Systematic_Analysis_of_Mixe
 
 ### Activity 1. A reflection on the main roles of prototyping and other design activities that you want to use based on the context you are in.
 
-***Reflection:*** My personal experience in recent years has been as a manager of protected natural spaces. In this area, practically all interventions on the ground are like prototypes. We practically never have a finished product. The management is continuous because the users are in constant evolution (change). The natural environment is changing and it es subject to multiple variables and interactions that we cannot totally control. Work with living beings and natural systems implies always using adaptive management. That is to say that we are constantly evaluating results and indicators of our actions to adapt subsequent planning to get closer to the conservation objectives.
+#### Reflection:
+My personal experience in recent years has been as a manager of protected natural spaces. In this area, practically all interventions on the ground are like prototypes. We practically never have a finished product. The management is continuous because the users are in constant evolution (change). The natural environment is changing and it es subject to multiple variables and interactions that we cannot totally control. Work with living beings and natural systems implies always using adaptive management. That is to say that we are constantly evaluating results and indicators of our actions to adapt subsequent planning to get closer to the conservation objectives.
 
 We invent conservation actions, we test study methodologies with new techniques, we create coexistence policies that we adapt and protocolize as they give results. I guess everything is closer to roles 1 and 2.
 
