@@ -1,4 +1,4 @@
-# Intervention 01: BinGo
+# Design studio: **Intervention 01 > BinGo**
 
 **Team members:**
 [Qianyin Du](https://33dudu.github.io/magicreator/),

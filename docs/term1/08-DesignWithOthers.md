@@ -1,3 +1,5 @@
+# **Design with others**
+
 #From micro to macro
 We are not alone. Humans in cities, we are not alone. 
 We are surrounded by other living beings that seek shelter and food in the same way we do. These species try to thrive in the microhabitats they find in the ocean of cement, tar and concrete that human settlements have become.

@@ -1,3 +1,5 @@
+# **Extended Intelligences**
+
 ## A visit to IA: Inteligencia Artificial. CCCB
 
 ![WIP](../images/WIP.png){width=400}

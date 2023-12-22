@@ -1,4 +1,5 @@
-# Intervention 02: Pulse
+# Design studio: **Intervention 02 > Pulse**
+
 **Team members:**
 [Nicolò Baldi](https://niente010.github.io/MDEF_website/#welcome),
 [Everardo Castro](https://everardocastro.github.io/mdef1/),

@@ -1,3 +1,5 @@
+# **The machine paradox**
+
 ![Moravec's paradox](../images/MoravecsParadox.jpg){width=450}
 
 ## Forensic report (Group activity)

@@ -1,4 +1,6 @@
 
+# **Documenting design**
+
 ## Documenting design concepts
 
 ![Communication](../images/Communication.jpg)

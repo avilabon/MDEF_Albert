@@ -1,4 +1,6 @@
 
+# **Living with your own ideas**
+
 ## Activity 1. Magic machines workshop: make a companion
 
 ### Public presentation of Petta

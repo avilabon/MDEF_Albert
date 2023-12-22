@@ -1,3 +1,5 @@
+# Design studio: **Roles of prototyping**
+
 ## Roles of Prototyping in 1PP Research through Design
 
 ![ Perspectives ](../../images/3P.png){width=500px}

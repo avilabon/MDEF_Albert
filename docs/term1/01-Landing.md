@@ -6,7 +6,7 @@ show:
     - toc
 ---
 
-# Landing
+# **Landing**
 ![landing](../images/albatroslandinggif.gif) 
 
 It's been a bit of a bumpy landing for me. Curiously, the landing was not on dry land but on a ship that is leaving with an open, uncertain and exciting destination.
