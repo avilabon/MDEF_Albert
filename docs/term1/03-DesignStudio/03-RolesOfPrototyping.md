@@ -22,7 +22,7 @@ The combination of the three perspectives seems to be a good formula to enrich d
     <iframe title="vimeo-player" src="https://player.vimeo.com/video/48763713?h=2779531d3a" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 -   Role 4: The process of prototyping as a vehicle for inquiry
 
-![ Extended workspace ](../../images/ExpandWorkspace_AVB.png)
+![ Extended workspace ](../../images/ExpandWorkspace_AVB.png){width=400}
 
 ### Activity 1. A reflection on the main roles of prototyping and other design activities that you want to use based on the context you are in.
 
