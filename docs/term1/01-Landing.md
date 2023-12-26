@@ -1,5 +1,4 @@
 ---
-title: Term1>Landing
 show:
     - path
     - navigation
