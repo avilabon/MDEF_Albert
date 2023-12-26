@@ -13,7 +13,7 @@ It's been a bit of a bumpy landing for me. Curiously, the landing was not on dry
 
 I'm going to have to fight with the helm to try to steer this boat. At the moment it is a little heeled due to old currents but we hope to focus soon and correct course.
 
-??? First impressions
+??? Impressions
     Almost everything is new. I quickly look for the first points of reference that give me security. I guess we are all doing the same thing. 
     It won't be difficult to feel at home here. Most people in the IAAC-FABLAB ecosystem seem very friendly and empathetic.
 
