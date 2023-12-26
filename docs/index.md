@@ -1,10 +1,4 @@
----
-show:
-  - navigation
 
-hide:
-  -  toc
----
 ## 1, 2, 3 testing, testing! Un, dos, tres, provant!
     
 ### Is there anyone out there who isn't a bot?
