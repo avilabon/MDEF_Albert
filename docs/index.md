@@ -1,3 +1,9 @@
+---
+show:
+    - path
+    - navigation
+    - toc
+---
 
 ## 1, 2, 3 testing, testing! Un, dos, tres, provant!
     
