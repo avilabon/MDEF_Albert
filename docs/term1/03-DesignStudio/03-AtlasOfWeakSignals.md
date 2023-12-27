@@ -23,6 +23,7 @@ I have selected the following weak signals to include within my design space:
 I am not surprised to see that many of these cards are related to my work background and my previous studies.
 
 ### My multiscalar design space
+This exercise allows us to locate on a multiscale map the different types of elements that can be part of my design space. Naturally, many of these elements can be placed on different work scales than those represented in the following diagram.
 ![Multiscalar design space](../../images/MultiscalarWS.png)
 
 ### My design space
@@ -30,7 +31,7 @@ I am not surprised to see that many of these cards are related to my work backgr
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNbrp8MI=/?moveToViewport=2855,-1801,7910,6731&embedId=396872365003" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
-## New proposals for AOWS dech from my design space
+## New proposals for AOWS deck from my design space
 
 In this section I present some proposals for the AOWS that have emerged as I have been configuring my design space. There are some Weak Signals that could be included as Random Triggers and vice versa. I have also created a new category of cards called "Mind the blackhole" to introduce important nuances to some of the cards I have used.
 
@@ -54,5 +55,5 @@ In this section I present some proposals for the AOWS that have emerged as I hav
 
 ## Reflections
  
-The design space is a changing thing. Every project we work on, every new learning we acquire, every success and every failure can modify this space. My design space is organized in constellations. The constellations are set by concepts, elements, feelings or things that do not easily change over time, elements that have been living with me for a long time. These constellations are made up of small galaxies of elements related to each other. At the same time, there are relationships and influences between these elements that surpass the constellations. I think that the design space is something 'alive', something to go to regularly to refresh intentions, to modify it with new interests and feelings.
+The design space is a changing thing. Every project we work on, every new learning we acquire, every success and every failure can modify this space. My design space is organized in constellations. The constellations are set by concepts, elements, feelings or things that do not easily change over time, elements that have been living with me for a long time. These constellations are made up of small galaxies of elements related to each other. At the same time, there are relationships and influences between these elements that surpass the constellations. I think that the design space is something 'alive', something to go to regularly to refresh intentions, to modify it with new interests and feelings. In short, Design Space seems to me to be a very good tool in constant evolution that helps us understand and develop ourselves as designers. And also a good place to go when we feel a little disoriented or lacking inspiration.
 
