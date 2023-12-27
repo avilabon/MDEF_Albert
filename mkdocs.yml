@@ -126,6 +126,7 @@ markdown_extensions:
   - pymdownx.tilde
   - attr_list
   - pymdownx.tabbed
+  - tables
 
 extra_css:
   - stylesheets/extra.css

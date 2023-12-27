@@ -23,11 +23,33 @@ I have selected the following weak signals to include within my design space:
 I am not surprised to see that many of these cards are related to my work background and my previous studies.
 
 ### My multiscalar design space
-![WIP](../../images/WIP.png){width=400}
+![Multiscalar design space](../../images/MultiscalarWS.png)
 
 ### My design space
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNbrp8MI=/?moveToViewport=2855,-1801,7910,6731&embedId=396872365003" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+
+## New proposals for AOWS dech from my design space
+
+In this section I present some proposals for the AOWS that have emerged as I have been configuring my design space. There are some Weak Signals that could be included as Random Triggers and vice versa. I have also created a new category of cards called "Mind the blackhole" to introduce important nuances to some of the cards I have used.
+
+| Weak Signal  | Description                          |
+| ----------- | ------------------------------------ |
+|![Degrowth](../../images/WS_Degrowth.PNG) | Although it is not a new concept, degrowth may probably be the only viable option to stay within planetary boundaries. Degrowth proposes a change in economic objectives and a rational, controlled and conscious decrease in consumption and production. |
+| ![Cloud Footprint](../../images/WS_CloudFootprint.PNG) | Every day the storage and transfer of information over the Internet increases. Cloud services are increasing day by day and this rise is accompanied by an increase in the ecological footprint. This signal is not weak but its exponential acceleration justifies its inclusion in the Atlas |
+| ![e-Commerce Orgy](../../images/WS_eCommerceOrgy.PNG)  | The availability of anything anywhere at any time turns commerce into an unprecedented logistical madness with a first-rate ecological impact. |
+| ![Design for nonhumans](../../images/WS_DesignForNoHumans.PNG)  | In order to live together we have to learn to share, to give without expecting anything in return. Design, although sustainable, normally focuses on humans and their requirements. Maybe the time has come to start designing for other species, even if we don't see what benefit we humans are going to get. Let's not forget that in natural ecosystems everything is interconnected. |
+
+| Mind the blackhole | Description                          |
+| ----------- | ------------------------------------ |
+|![Scalability vs Diversity](../../images/MdG_ScalabilityDiversity.PNG) | This card is an important reminder for me. I think we must not forget that scalability can cause a loss of local diversity. |
+| ![Intercollaboration vs Explotation](../../images/MdG_IntercollaborationExplotation.PNG) | What do we understand by collaboration between species? This card is a warning to be alert that what may seem like collaboration to us can be full-blown exploitation. We must ask ourselves what benefit the parties obtain from this collaboration. |
+
+| Random trigger | Description                          |
+| ----------- | ------------------------------------ |
+|![Community-sufficiency](../../images/RT_Community-sufficiency.PNG) | This card is an important reminder for me. I think we must not forget that scalability can cause a loss of local diversity. |
+|![Internalize externalities](../../images/RT_InternalizeExternalities.png) | What do we understand by collaboration between species? This card is a warning to be alert that what may seem like collaboration to us can be full-blown exploitation. We must ask ourselves what benefit the parties obtain from this collaboration. |
 
 
 ## Reflections
