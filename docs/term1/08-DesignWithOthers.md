@@ -21,5 +21,7 @@ This small intervention aims to bring us closer to these other citizens with who
 ##Video of testing the prototype with a real community
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/aSSOlwAWv4w?si=kjzE7BvRDPg1vI1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+There are many communities that are not organized or legally constituted. The group with which we tested the prototype is one of these communities. It is a temporary community of girls and boys from different towns near Barcelona who meet during weekends and holidays in a small town in the Pyrenees. There they form a multi-age group where origin, purchasing power or family diversity does not matter. The goal of the community is to have fun and play, and they achieve it day after day filling the streets of the town and its inhabitants with joy.
+
 ##Reflections
 ![WIP](../images/WIP.png){width=400}

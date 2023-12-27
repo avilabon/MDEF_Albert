@@ -4,7 +4,7 @@
 
 [Design Dialogs exhibition](https://fablabbcn.org/calendar/design-dialogues-i)
 
-## Simplified Design Space and 1st term Collective Interventions
+## Simplified Design Space with 1st Term Interventions
 ![Simplified Design Space](../images/01_DesingSpaceSimplified.jpg)
 The figure represents a simplified diagram of the elements of my design space related to the interventions developed during the first term.
 
