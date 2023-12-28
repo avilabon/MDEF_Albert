@@ -25,7 +25,10 @@ nav:
         - Narratives Storytelling: term1/03-DesignStudio/03-PersonalNarrativesCollectiveStorytelling.md
         - Intervention 01: term1/03-DesignStudio/03-Intervention01.md
         - Intervention 02: term1/03-DesignStudio/03-Intervention02.md
-     - The Machine Paradox: term1/05-TheMachineParadox.md
+     - The Machine Paradox:
+        - The Machine Paradox: term1/05-TheMachineParadox/05-TheMachineParadox.md
+        - 3D Printer forensic report: term1/05-TheMachineParadox/05-ForensicReport.md
+        - Life Xpectancy: term1/05-TheMachineParadox/05-TheMagicMachine.md
      - Living With Your Own Ideas: term1/06-LivingWithYourOwnIdeas.md
     # First person experience: term1/06-FirstPersonExperience.md 
      - Bio AgriZero: term1/07-BiologyZero.md
