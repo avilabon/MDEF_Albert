@@ -1,10 +1,3 @@
----
-show:
-    - path
-    - navigation
-    - toc
----
-
 # **Landing**
 ![landing](../images/albatroslandinggif.gif) 
 
