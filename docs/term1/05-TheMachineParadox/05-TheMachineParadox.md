@@ -25,3 +25,5 @@ In our case, the 3D printer, is a very special case as it comes from an open des
 Once the machines were disassembled and the components checked, we were given the challenge of building a [new machine](05-TheMagicMachine.md) without any commercial purpose, using parts of the original machine. If disassembling an object and testing its parts separately had already been interesting and fun, it has been even more so to build something different inspired by the first one. 
 
 At this stage of the seminar the coordination of the group and the internal roles of the members has also been an interesting learning point. We were asked to divide ourselves by abilities and skills to have balanced groups. I guess my colleagues will agree with me that my contribution to the group has been more multi-purpose, I have been filling gaps wherever they were and helping or supporting my colleagues when they needed it.
+
+To create this machine it was necessary to use various techniques, including: laser cutting, 3D design, 3D printing, CNC, painting, programming, electronics, graphic design, web editing, video recording and editing. Almost nothing!
