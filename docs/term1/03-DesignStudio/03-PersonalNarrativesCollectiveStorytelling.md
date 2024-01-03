@@ -30,6 +30,8 @@ The ***slowness*** has allowed me, for a few moments, to break or enlarge my bub
 ???+ Danger "We can not use words as:"
     I, us, our, me, myself, mine, ourselves...
 
+![Weaving the network of concepts for the collective story](../../images/03-NarrativesStorytellingExercice.PNG)
+
 It is funny how an accumilation of choices can lead a group of people to come together. People who a little more then a month ago were strangers have become a community working to create a better future. Little did they know that the present was gonna be the craziest challenge they ever faced.The members of the group come from diverse nationalities and ethnic backgrounds, yet collectively, they share a common experience of navigating through the intricate processes of attaining city citizenship and utilizing it to acquire a commute card amidst the challenges of bureaucratic procedures. From this primordial soup of individuals and cultures, however, some questions arise: what is really the difference between their personal and professional identities? Are they only here to work together? It seems more like these players are trying to transform their personal ideals into concrete action.
 
 The correct answer to the question doesn't exist. It's up to the group to embark on this new adventure and ask even more questions. Whether it's by engaging the newfound tools of the world to act on simple interactions, by analysing the enviroment lived to learn learn and learn or to by simply living in community and add up a new experience of co-living with different cultures, languages, materials, technologies, spaces, species...
