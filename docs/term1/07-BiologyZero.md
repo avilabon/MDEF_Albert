@@ -95,15 +95,14 @@ Another hands-on exercise has been the seed analysis of a seed collection for ag
 | Smooth kiwi   | Dwarf quince  |  Szechuan pepper   |
 | SKU: SE-100C | SKU: 126   |  SKU: 187B  |
 | Not to be confused with the better known and hairy skinned A.deliciosa, this is a smooth skinned climber with large smooth-skinned fruits of excellent flavour. The sap from stems can be used as a glue and the plant for facade insulation. Dioecious; hardy, to -15°C. NB Protect from cats who love to eat the plant!    | A small shrub, reaching 1m (3 ft) high and across. Bright orange flowers are followed by yellow, fragrant, edible fruits 1½ (40 mm) across (best cooked), freely produced. Ground cover and bee plant. Hardy to -23°C.|A very aromatic shrub from China and Japan growing 2 m (6 ft) or more high. The leaves can be used as a flavouring, but the main use is the peppercorn-like red fruit ‘shells’, which are used a spice (peppery and fragrant) – grown commercially as a spice crop in Asia. Grows well in any reasonable soil in sun or light shade; hardy to -20ºC.|
-| Stratification: CS4| Stratification: CS13|Stratification: CS13|
+| Stratification[^2]: CS4| Stratification[^2]: CS13|Stratification[^2]: CS13|
 | Source: https://www.agroforestry.co.uk/|
 
+[^2]:
+Seed stratification: https://www.agroforestry.co.uk/seed-stratification-information/
+
+
 ![3 speciess](../images/Species.PNG)
-
-## Bio Agri Zero final reflections
-These two seminars have been too short for my taste. These are topics that I am passionate about and I can never get enough of them. These are topics of great importance and relevance for my design space and I think they are vital to face the challenges of the Anthropocene.
-
-If we leave aside the excessive speed at which the theory has had to be given, I think that thanks to the experience and professionalism of the teachers, a good balance has been found between theory and practice.
 
 
 ???+ quote "References"
@@ -112,4 +111,9 @@ If we leave aside the excessive speed at which the theory has had to be given, I
     - Encyclopedia of Life: https://eol.org/
     - The Agroforestry reseach Trust: https://www.agroforestry.co.uk/
 
+
+## Bio Agri Zero final reflections
+These two seminars have been too short for my taste. These are topics that I am passionate about and I can never get enough of them. These are topics of great importance and relevance for my design space and I think they are vital to face the challenges of the Anthropocene.
+
+If we leave aside the excessive speed at which the theory has had to be given, I think that thanks to the experience and professionalism of the teachers, a good balance has been found between theory and practice.
 
