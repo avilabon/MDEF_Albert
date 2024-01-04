@@ -53,7 +53,18 @@ We did a Bioblitz [^1] together from Mundet station to Valldaura Labs. We used [
 [^1]:
  A bioblitz is an event that focuses on finding and identifying as many species as possible in a specific area over a short period of time.
 
+Along the way we have been talking about the species and natural communities that inhabit the area, the management of the land and the forest and also the great transformation in land uses that has occurred in this sector of the Collserola mountain.
+
+![Changes of the last 70 years](../images/MundetValldaura.PNG)
+
+The abandonment of crops and the progressive renaturalization of the area by forest species is very evident by observing the aerial photos of the last 70 years. The species we found perfectly reflect the history of land use in the area and how the potential vegetation is recovering in those areas with fewer impacts. A large number of exotic species are also appreciated as a result of recent history and proximity to the city.
+
+![Valldaura garden](../images/Valldaura.PNG)
+
+
 ### Extracting laurel essential oil
+
+![Extacting laurel essential oil](../images/LaurelOil.PNG)
 
 ### Analyzing soils
 Jonathan provided us with some soils from different sources that we were able to analyze in groups. [Nicolo](https://niente010.github.io/MDEF_website/#welcome) and I analyzed a soil from **Benifallet**.
@@ -72,9 +83,28 @@ Jonathan provided us with some soils from different sources that we were able to
 | KH        | 10°d       |     pH     |
 | PO4       | 0.1 mg/L   |    PO4     |
 
-#### Results interpretation
-The Silt loam texture is composed by 75-85% of silt, 20-50% of sand and 0-25% of clay. The Munsell color value of 5YR corresponds to predominantly yellow and orange colors, it can indicate the presence of certain minerals such as iron. The 5/6 values indicate a moderate organic matter content. pH test indicates a value very close to neutral, just slightly alkaline.
+#### Soil results interpretation
+The soil sample from Benifallet presents a "silt loam" texture is composed by 75-85% of silt, 20-50% of sand and 0-25% of clay. The Munsell color value of 5YR corresponds to predominantly yellow and orange colors, it can indicate the presence of certain minerals such as iron. The 5/6 values indicate a moderate organic matter content. pH test indicates a value very close to neutral, just slightly alkaline.
 The nutrients tests ( hosphorus and nitrogen) have given values not very high.
+
+### Seeds
+Another hands-on exercise has been the seed analysis of a seed collection for agroforestry. Agroforestry is the antithesis of monocultures, it is the simultaneous cultivation of various species taking advantage of the different levels of vegetation (soil, bushes, trees) in the same way that happens in a natural forest ecosystem but with species that provide us with food and raw materials. staggered manner at various times of the year.
+
+| Actinidia chinensis | Chaenomeles japonica |  Zanthoxylum schinifolium|
+|-----------|------------|------------|
+| Smooth kiwi   | Dwarf quince  |  Szechuan pepper   |
+| SKU: SE-100C | SKU: 126   |  SKU: 187B  |
+| Not to be confused with the better known and hairy skinned A.deliciosa, this is a smooth skinned climber with large smooth-skinned fruits of excellent flavour. The sap from stems can be used as a glue and the plant for facade insulation. Dioecious; hardy, to -15°C. NB Protect from cats who love to eat the plant!    | A small shrub, reaching 1m (3 ft) high and across. Bright orange flowers are followed by yellow, fragrant, edible fruits 1½ (40 mm) across (best cooked), freely produced. Ground cover and bee plant. Hardy to -23°C.|A very aromatic shrub from China and Japan growing 2 m (6 ft) or more high. The leaves can be used as a flavouring, but the main use is the peppercorn-like red fruit ‘shells’, which are used a spice (peppery and fragrant) – grown commercially as a spice crop in Asia. Grows well in any reasonable soil in sun or light shade; hardy to -20ºC.|
+| Stratification: CS4| Stratification: CS13|Stratification: CS13|
+| Source: https://www.agroforestry.co.uk/|
+
+![3 speciess](../images/Species.PNG)
+
+## Bio Agri Zero final reflections
+These two seminars have been too short for my taste. These are topics that I am passionate about and I can never get enough of them. These are topics of great importance and relevance for my design space and I think they are vital to face the challenges of the Anthropocene.
+
+If we leave aside the excessive speed at which the theory has had to be given, I think that thanks to the experience and professionalism of the teachers, a good balance has been found between theory and practice.
+
 
 ???+ quote "References"
     - Appropedia: https://www.appropedia.org
