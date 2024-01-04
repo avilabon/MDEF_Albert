@@ -117,3 +117,47 @@ These two seminars have been too short for my taste. These are topics that I am 
 
 If we leave aside the excessive speed at which the theory has had to be given, I think that thanks to the experience and professionalism of the teachers, a good balance has been found between theory and practice.
 
+## Deliverable: Microfiberscatcher (a mock GMO)
+
+**What exacly is a GMO (Genetically Modified Organism)?**
+
+According to National Human Reseach intitute[^3], a GMO is a plant, animal or microbe in which one or more changes have been made to the genome, typically using high-tech genetic engineering, in an attempt to alter the characteristics of an organism. Genes can be introduced, enhanced or deleted within a species, across species or even across kingdoms. GMOs may be used for a variety of purposes, such as making human insulin, producing fermented beverages and developing pesticide resistance in crop plants.
+
+**What is the purpose of my GMO?**
+
+Synthetic microfibers have become one of the most important sources of pollution for freshwater systems and the oceans.  They also pollute the atmosphere and soil. Like many microplastics, they can affect the health of many species, including humans. A large proportion of these synthetic fibers are caused by household activities. This project is an attempt to understand this problem, create awareness, adopt existing solutions and design new ones to reduce this problem at household level [^4] [^5] [^6] [^7].
+
+The main purpose is to design an organism capable of trapping microfibers from the environment and accumulating them somewhere where someone can collect them or metabolize them to reduce the pollution they produce. Why not find just a PET-digesting enzime like PETase found in *Ideonella sakaiensis* [^8]? So far there have been various attempts to increase the rate of plastic degradation of these organisms, the risk is that if the activity is no so fast many nanoplastics are generated, which further increase the problem. 
+
+There are several attempts to capture, aggregate or destroy microfibers in water, but I have not found any that try to capture those from the floor and indoor air in homes aside from air filters. This will therefore be the "ecological" niche of the new organism, **the microfibercatcher** that I am designing. I think it is better to prevent these microfibers from reaching aquatic systems, that is, to capture them from the environment and accumulate them so that they can be collected. It goes without saying that the best option would be not to wear synthetic clothing that produces microfibers. 
+
+My thesis is based on the finding that static electricity acts as a dust trap (fibers and hair) producing the typical balls of dust that run around the house. These lints occur in greater abundance in winter when we wear thicker, more fibrous clothes and use heating which dries out the environment causing more static electricity.
+
+**The reseach of static electricity in living beings**
+
+First idea was the static electricity of the cats fur but after a quick research it seems that the cat fur doesnt't produces estatic electricity by itself. It seems that as in the case of cats and other animals, the static electricity in their hair is associated with the type of hair and the behavior of rubbing on surfaces. I don't see it easy to relate it to genetics so this research, for now, has led me to a dead end. 
+![Electrostatic cat by Sean McGrath](../images/ElectrostaticCat_by_Sean%20McGrath.jpg)
+
+Not so soon! What if we could find a way to make our pets' hair self-generate static electricity without harming the animals?
+
+![WIP](../images/WIP.png){width=400}
+
+
+
+
+
+[^3]:
+https://www.genome.gov/
+[^4]:
+Jean-Pierre W. Desforges, Moira Galbraith, Neil Dangerfield, Peter S. Ross,
+Widespread distribution of microplastics in subsurface seawater in the NE Pacific Ocean, Marine Pollution Bulletin, Volume 79, Issues 1–2, 2014,Pages 94-99,ISSN 0025-326X,https://doi.org/10.1016/j.marpolbul.2013.12.035.
+[^5]:
+Boucher, J. and Friot D. (2017). Primary Microplastics in the Oceans: A Global Evaluation of Sources. Gland, Switzerland: IUCN. 43pp.
+[^6]:
+Liu J, Liu Q, An L, Wang M, Yang Q, Zhu B, Ding J, Ye C, Xu Y. Microfiber Pollution in the Earth System. Rev Environ Contam Toxicol. 2022;260(1):13. doi: 10.1007/s44169-022-00015-9. Epub 2022 Dec 6. PMCID: PMC9734713.
+[^7]:
+https://cen.acs.org/articles/95/i7/Tracing-chemistry-household-dust.html
+[^8]:
+Yoshida S., Hiraga K., Takehara T., Taniguchi I., Yamaji H., Maeda Y., Toyohara K., Miyamoto K., Kimura Y., and Oda K. (2016). A bacterium that degrades and assimilates poly(ethylene terephthalate). Science 351, 1196-1199.
+
+
