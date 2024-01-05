@@ -1,7 +1,7 @@
 
 # **Documenting design**
 
-## Documenting design concepts
+## Documenting design concepts and reflections
 
 ![Communication](../images/Communication.jpg)
 
@@ -9,7 +9,7 @@ The design documentation will be a common thread throughout the program. Design 
 
 We have also taken a look at the main elements to take into account when documenting, such as the introduction of the key characters and emotions to give a human touch, the context, the steps to the solution, and the conflicts. As well as the use of a clear plot structure and the incorporation of visual elements.
 
-***Reflection:*** Humans started documenting long ago. Now we live in the Information society. I hope to know how to walk the fine line between information and over-information!
+Humans started documenting long ago. Now we live in the Information society. I hope to know how to walk the fine line between information and over-information!
 
 ![History of documenting and communication](../images/EvolutionComunication.JPG)
 
