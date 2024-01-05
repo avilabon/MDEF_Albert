@@ -12,15 +12,15 @@ The figure represents a simplified diagram of the elements of my design space re
 
 ![Microfibers label](../images/EtiquetaMicrofiber.jpg){: style="width:450px"}
 
-I have taken advantage of the showcase that the Design Dialogs space offers us to investigate and share a topic that has been hovering on my mind for a long time, synthetic microfibers.
+I have taken advantage of the showcase that the Design Dialogs space offers us to investigate and share a topic that has been hovering on my mind for a long time: synthetic microfibers.
 
-The problems caused by synthetic microfibers in the oceans have been known for some time by the scientific community, but this knowledge does not yet translated into significant changes at the legislative level to reduce, control or avoid this contaminant.
+The problems caused by synthetic microfibers in the oceans have been known for some time by the scientific community, but this knowledge has not yet translated into significant changes at the legislative level to reduce, control, or avoid this contaminant.
 
 With the help of a microscope, I have been able to show visitors the microfibers collected at home from different household activities.
 
 I have also been able to confirm that the vast majority of people who have visited my space were not aware of this serious environmental problem.
 
-However, the problem was quickly understood and I received some very interesting suggestions.
+However, the problem was quickly understood, and I received some very interesting suggestions.
 
 ### Microfibers poster
 ![Microfibers poster](../images/MicroFibers.jpg)
