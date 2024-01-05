@@ -1,7 +1,7 @@
 
 # Design studio: **Narratives storytelling**
 
-Welcome to another conceptual, semantic and dialectical shakeup with Laura, our leading philosopher.
+Welcome to another conceptual, semantic, and dialectical shakeup with Laura, our leading philosopher.
 
 We delved into concepts such as the personal narrative or the collective narrative, the different meanings within the word power (potestas and potentia), wor(l)ding, vibrant matter, materialities... Which have come from the hand of theorists such as Donna Haraway, Spinoza, Jane Bennett...
 
@@ -11,23 +11,21 @@ We delved into concepts such as the personal narrative or the collective narrati
     3. An interview: [Feminist cyborg scholar Donna Haraway: ‘The disorder of our era isn’t necessary’](https://www.theguardian.com/world/2019/jun/20/donna-haraway-interview-cyborg-manifesto-post-truth)
     4. A book: [Vibrant matter, a political ecology of Things. Jane Bennett](https://www.dukeupress.edu/vibrant-matter)
 
-## Activity 1. Choose a figure an write a personal narrative 
+## Activity 1. Choose a figure and write a personal narrative 
 ###**Slowness**
 
-Today I arrived 45 minutes early to Barcelona. The distance in between the bus stop and the school is only 10 minutes. I chose ***slowness*** rather than going straight as always and taking the opportunity to do something else when I arrived. It was early in the morning, rush hour for school and work.
+Today I arrived 45 minutes early. The distance between the bus stop and the school is only 10 minutes. I chose ***slowness*** rather than going straight as always and taking the opportunity to do something else when I arrived. It was early in the morning, rush hour for school and work.
 
-The difference in speed with respect to the other pedestrians, placed me in a position between static and dynamic, between the buildings and the majority of humans active at that moment, almost *"still life"*.
+The difference in speed with respect to the other pedestrians placed me in a position between static and dynamic, between the buildings and the majority of humans active at that moment, almost *"still life"*.
 
-In their haste, they avoided me as if it were a piece of street furniture. And at that precise moment I realized that my perception had changed. I saw new things that had always been there, textures and details appeared in the materials that made up a path many times traveled. I saw more than just people in people, not just their shape, the colors of their clothes and their shoes. I could listen to my mirror system and feel inside me its anguish, its haste, its motivations, its dreams, its illusions, its ambitions... or at least that's what it seemed to me and it was fantastic.
+In their haste, they avoided me, as if it were a piece of street furniture. And at that precise moment, I realized that my perception had changed. I saw new things that had always been there; textures and details appeared in the materials that made up a path many times traveled. I saw more than just people in people, not just their shape, the colors of their clothes and their shoes. I could listen to my mirror system and feel inside me its anguish, its haste, its motivations, its dreams, its illusions, its ambitions... or at least that's what it seemed to me, and it was fantastic.
 
 The ***slowness*** has allowed me, for a few moments, to break or enlarge my bubble, to see beyond, to enhance my senses.
 
 
-
-
 ## Activity 2. Write a collective story
 
-???+ Danger "We can not use words as:"
+???+ Danger "We cannot use words as:"
     I, us, our, me, myself, mine, ourselves...
 
 ![Weaving the network of concepts for the collective story](../../images/03-NarrativesStorytellingExercice.PNG)
