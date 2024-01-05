@@ -45,7 +45,7 @@ I imagine that this companion will evolve, like us, like most of us! I imagine t
 
 #### 2.1. Main motivation/idea: Can we do something to improve sustainable mobility?
 
-STATE OF THE ART
+**State of the art**
 
 - Sustainable mobility is a necessity
 - Beyond the cities there are few bike lanes
@@ -56,12 +56,12 @@ into roads designed for cars
 - Many people are stressed. Almost everyone is in a hurry, we want to
 do more things than we can for the time we have.
 
-OPINIONS AND WISHES
+**Opinions and wishes**
 
 My personal opinion is that it makes no sense to create more roads and my wish is
 that cars and bicycles learn to share space, how can I help?
 
-MY HYPOTHESIS
+**My hypothesis**
 
 - Communication will improve relationships,
 - Good vibes, vibrations, feelings are contagious as bad feelings,
@@ -73,16 +73,20 @@ MY HYPOTHESIS
 indications, warnings and also a more empathic communication messages
 such as “Thank you! Hello! I’m sorry!“ to the car drivers may help.
 
-TEST IN FIRST-PERSON
+**Test in first-person**
 
 If we imagine that this empathic communication device exists, how would I feel
 wearing it? How do I feel trying to communicate with car drivers?
+
 Initial idea:
+
 I’m gonna stick a message on my back and chest addressed to the drivers.
 Then I will go out for a bike ride on a road without a bike lane that I normally
 ride my road bike and I will record a video to see what happens, if anything
 happens. The rain and the wind don't allow me!
+
 Second idea:
+
 There is little time left so I will use the daily trip from the bus stop to the
 IAAC by bike to do the test so I put a sign saying good morning on the front
 that can be read with the rearview mirrors and another one in my backpack
@@ -90,7 +94,10 @@ and I start pedaling through the streets of Barcelona. I feel ashamed just to
 be posting the messages. It seems like I'm going a little late or maybe it's
 Friday but there isn't much traffic.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4DpTD0Mzkc?si=yHaf1c5QLh-tfHQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Deliverable: Video test in first-person
+
+<iframe width="650" height="400" src="https://www.youtube.com/embed/Y4DpTD0Mzkc?si=yHaf1c5QLh-tfHQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##Reflections, conclusions and new questions
 
