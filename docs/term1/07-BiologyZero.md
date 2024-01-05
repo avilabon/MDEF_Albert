@@ -153,8 +153,8 @@ The organism we want to modify could be any pet that runs around the house, spec
 
 The next step would be to identify the genes responsible for creating the proteins that form the nanowires in some of the microbes that produce them and isolate these genes.
 
-From what I've read, to change genes in living cells, techniques such as CRISPR-Cas9 should be used at this stage. What entails designing the guide RNA that will take the Cas9 enzyme to the sequence we want to modify, in this case the genes that give the characteristics of our beloved host's hair. If all goes well, this enzyme will cut the target's DNA at the desired site and insert the sequence with the desired trait. 
-​
+From what I've read, to change genes in living cells, techniques such as CRISPR-Cas9 should be used at this stage. What entails designing the guide RNA that will take the Cas9 enzyme to the sequence we want to modify, in this case the genes that give the characteristics of our beloved host's hair. If all goes well, this enzyme will cut the target's DNA at the desired site and insert the sequence with the desired trait.
+
 As I suppose we love our pet very much, we will try all this in a fertilized egg.
 
 [^4]:
