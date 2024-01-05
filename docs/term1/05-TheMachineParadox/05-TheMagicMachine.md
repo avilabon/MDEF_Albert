@@ -1,6 +1,6 @@
 # LifeX - The Life eXpectancy predictor
 
-After brainstorming and presenting 3 proposals, we decided to build the LifeX, a modern version of glass balls. It's a pretty useless machine that draws a line on a bookmark whose distance represents the life expectancy of the person who pressed the button to activate it.
+After brainstorming and presenting three proposals, we decided to build the LifeX, a modern version of glass balls. It's a pretty useless machine that draws a line on a bookmark whose distance represents the life expectancy of the person who pressed the button to activate it.
 ![Proposals](../../images/5-Concepts.PNG)
 
 ###Work in progress
