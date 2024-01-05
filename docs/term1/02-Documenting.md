@@ -5,11 +5,11 @@
 
 ![Communication](../images/Communication.jpg)
 
-The design documentation will be a common thread throughout the program. Design is not understood as the final product but goes beyond that. Special emphasis is placed on documenting the entire design process to provide a good understanding of the context and paths followed. Documentation will also help us to clarify our next steps and to convey collaboration.
+The design documentation will be a common thread throughout the program. Design is not understood as the final product but goes beyond that. Special emphasis is placed on documenting the entire design process to provide a good understanding of the context and paths followed. Documentation will also help us to clarify our next steps and convey collaboration.
 
-We have also taken a look at the main elements to take into account when documenting as the introduction of the key characters and emotions to give a human touch, the context, the steps to the solution, the conflicts. As well as the use of a clear plot structure and the incorporation of visual elements.
+We have also taken a look at the main elements to take into account when documenting, such as the introduction of the key characters and emotions to give a human touch, the context, the steps to the solution, and the conflicts. As well as the use of a clear plot structure and the incorporation of visual elements.
 
-***Reflection:*** Humans started documenting long ago. Now we live in a the Information Society. I hope to know how to walk the fine line between information and over-information!
+***Reflection:*** Humans started documenting long ago. Now we live in the Information society. I hope to know how to walk the fine line between information and over-information!
 
 ![History of documenting and communication](../images/EvolutionComunication.JPG)
 
@@ -18,9 +18,9 @@ We have also taken a look at the main elements to take into account when documen
 
 ### Setup
 
-I'd rather not document that part. I just want to thank Josep, Adai, Oscar from de CodeLab and my classmate Minnie for their patience and help. 
+I'd rather not document that part. I just want to thank Josep, Adai, Oscar from de CodeLab, and my classmate Minnie for their patience and help. 
 
-Luckily they didn't charge me for the time they spent figuring out what was going on between my machine and Github. 
+Luckily, they didn't charge me for the time they spent figuring out what was going on between my machine and Github. 
 
 I hope I can help them in the future.
 
