@@ -1,12 +1,17 @@
 # **Extended Intelligences**
 
 ## A visit to IA: Inteligencia Artificial. CCCB
+The seminar began with an interesting visit to the exhibition "AI: Artificial Intelligence" at the CCCB. Artificial intelligence has become part of our lives in record time. It is a technology that is revolutionizing everything.
 
-![WIP](../images/WIP.png){width=400}
+There, we could see amazing things about artificial intelligence. It becomes difficult to choose one over the others. I don't know why, but one of the images that stuck in my brain the most was that of SoFi, the robot fish created by Daniela Rus and MIT CSAIL.
+
+<iframe width="300" height="250" src="https://www.youtube.com/embed/Dy5ZETdaC9k?si=qobf86Q7p8WQRbRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="300" height="250" src="https://www.youtube.com/embed/BSA_zb1ajes?si=O4Z-DwqTpQOiNUXT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Finding an interesting dataset
 
-![WIP](../images/DatasetEI_Ex1.PNG)
+![Datasets](../images/DatasetEI_Ex1.PNG)
 
 ## Designing a project that take advantage of AI technology
 **Team members:**
@@ -22,7 +27,8 @@
 #### Final presentation
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6GdW0vTNqECZT-Iv-7hwvxbwK7vEknShYsTkUxsT7NuctDQ-g4A7obEABlumq4BygqTOv2ado5hGD/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-***Personal reflections about the seminar. Is AI the new fentanyl of creativity and self-thinking?***
+## Reflections: **Is AI the new fentanyl of creativity and self-thinking?**
+
 
 Before doing the seminar, my knowledge of artificial intelligence was only at the user level. While it is true that AI, in its different forms, is already implemented in many functionalities of the software, websites, apps and objects that we use daily, I must confess that, consciously, I only used it in a very restricted situations in the professional field. Some examples are the identification of plants and animals species, bird song recognition or for the searching for certain patterns in acoustic recordings for the study of some animal species. Although it is true that on some occasions I had chatted with ChatGPT, I must admit that I was only satisfied with their responses when I had no opinion or had very little knowledge about the topic of conversation. For this reason, I find it very useful to summarize or to introduce myself to new topics. When I got to the master's degree, I was surprised by the high level of use and skill with ChatGPT and other AI apps that most of my young classmates had.
 
