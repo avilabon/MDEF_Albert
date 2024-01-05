@@ -5,7 +5,7 @@ It's been a bit of a bumpy landing for me. Curiously, the landing was not on dry
 
 I'm going to have to fight with the helm to try to steer this boat. At the moment it is a little heeled due to old currents but we hope to focus soon and correct course.
 
-??? Impressions
+???+ Impressions
     Almost everything is new. I quickly look for the first points of reference that give me security. I guess we are all doing the same thing. 
     It won't be difficult to feel at home here. Most people in the IAAC-FABLAB ecosystem seem very friendly and empathetic.
 
@@ -83,4 +83,4 @@ Link:
 
 ## Reflections
 
-Our minds has been shaken with a multitude of things and concepts. Many new ones, others already old friends, others that have metamorphosed since last time... A great week, it is going to be difficult to calm our minds after so much overstimulation!
+Our minds have been shaken by a multitude of things and concepts. Many new ones, others already old friends, others that have metamorphosed since last time... A great week! It is going to be difficult to calm our minds after so much overstimulation!
