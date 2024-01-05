@@ -2,11 +2,11 @@
 ## Bio Zero
 **Is life a mere piece of information that can self-replicate to adapt to environmental conditions?**
 
-Bio Zero has been a journey at the speed of light through concepts and technologies related to life. We have flown over different branches of biology such as molecular biology, microbiology, cellular biology, genetic engineering... And along the way we saw cells, proteins, amino acids, dna, rna, exons and we learned about CRISP-Cas9 and its use in genetic engineering, we saw bacteria, fungi, protists and we spoke about "LUCA",...
+Bio Zero has been a journey at the speed of light through concepts and technologies related to life. We have flown over different branches of biology, such as molecular biology, microbiology, cellular biology, genetic engineering, etc. And along the way, we saw cells, proteins, amino acids, DNA, RNA, exons, bacteria, fungi, protists, and we met CRISPR-Cas9, the new genetic engineering weapon.
 
-We have been able to practice a little preparing low-cost bacteria cultures in petri dishes with almost homemade resources, approaching an invisible world with microscopes and seeing practical applications such as growing spirulina or kombucha.
+We have been able to practice preparing low-cost bacteria cultures in petri dishes with almost homemade resources, approaching an invisible world with microscopes and seeing practical applications such as growing spirulina or kombucha.
 
-In addition, throughout the seminar we were able to reflect on the scientific method, experimental design, the peer-review process for publications, the role of science in general, as well as the funding of scientific research and some open science initiatives.
+In addition, throughout the seminar, we were able to reflect on the scientific method, experimental design, the peer-review process for publications, the role of science in general, as well as the funding of scientific research and some open science initiatives.
 
 ![Low cost bacteria cultures](../images/CultivatingBacteria.PNG){Width=800}
 ???+ danger "Lab rules"
@@ -48,12 +48,12 @@ In addition, throughout the seminar we were able to reflect on the scientific me
 The Agri Zero seminar has been an interesting quick overview of the concepts related to agriculture and other collaterally related topics. 
 
 ### Visiting Valldaura Labs
-We did a Bioblitz [^1] together from Mundet station to Valldaura Labs. We used [iNaturalist App](https://www.inaturalist.org/) to collect pictures and to identify species thanks to its deep learning-based identification tool built into it.
+We did a Bioblitz [^1] together from Mundet station to Valldaura Labs. We used [iNaturalist App](https://www.inaturalist.org/) to collect pictures and identify species thanks to its deep learning-based identification tool built into it.
 
 [^1]:
- A bioblitz is an event that focuses on finding and identifying as many species as possible in a specific area over a short period of time.
+A bioblitz is an event that focuses on finding and identifying as many species as possible in a specific area over a short period of time.
 
-Along the way we have been talking about the species and natural communities that inhabit the area, the management of the land and the forest and also the great transformation in land uses that has occurred in this sector of the Collserola mountain.
+Along the way, we have been talking about the species and natural communities that inhabit the area, the management of the land and the forest, and also the great transformation in land uses that has occurred in this sector of the Collserola mountain.
 
 ![Changes of the last 70 years](../images/MundetValldaura.PNG)
 
@@ -84,11 +84,11 @@ Jonathan provided us with some soils from different sources that we were able to
 | PO4       | 0.1 mg/L   |    PO4     |
 
 #### Soil results interpretation
-The soil sample from Benifallet presents a "silt loam" texture is composed by 75-85% of silt, 20-50% of sand and 0-25% of clay. The Munsell color value of 5YR corresponds to predominantly yellow and orange colors, it can indicate the presence of certain minerals such as iron. The 5/6 values indicate a moderate organic matter content. pH test indicates a value very close to neutral, just slightly alkaline.
-The nutrients tests ( hosphorus and nitrogen) have given values not very high.
+The soil sample from Benifallet presents a "silt loam" texture. Silt loam texture contains 75-85% of silt, 20-50% of sand, and 0-25% of clay. The Munsell color value of 5YR corresponds to predominantly yellow and orange colors, it can indicate the presence of certain minerals, such as iron. The 5/6 values indicate a moderate organic matter content. The pH test indicates a value very close to neutral, just slightly alkaline.
+The nutrient tests (phosphorus and nitrogen) have given values that are not very high.
 
 ### Seeds
-Another hands-on exercise has been the seed analysis of a seed collection for agroforestry. Agroforestry is the antithesis of monocultures, it is the simultaneous cultivation of various species taking advantage of the different levels of vegetation (soil, bushes, trees) in the same way that happens in a natural forest ecosystem but with species that provide us with food and raw materials. staggered manner at various times of the year.
+Another hands-on exercise has been the seed analysis of a seed collection for agroforestry. Agroforestry is the antithesis of monocultures; it is the simultaneous cultivation of various species, taking advantage of the different levels of vegetation (soil, bushes, and trees) in the same way that happens in a natural forest ecosystem, but with species that provide us with food and raw materials. staggered manner at various times of the year.
 
 | Actinidia chinensis | Chaenomeles japonica |  Zanthoxylum schinifolium|
 |-----------|------------|------------|
@@ -113,7 +113,7 @@ Seed stratification: https://www.agroforestry.co.uk/seed-stratification-informat
 
 
 ## Bio Agri Zero final reflections
-These two seminars have been too short for my taste. These are topics that I am passionate about and I can never get enough of them. These are topics of great importance and relevance for my design space and I think they are vital to face the challenges of the Anthropocene.
+These two seminars have been too short for my taste. These are topics that I am passionate about, and I can never get enough of them. These are topics of great importance and relevance for my design space, and I think they are vital to facing the challenges of the Anthropocene.
 
 If we leave aside the excessive speed at which the theory has had to be given, I think that thanks to the experience and professionalism of the teachers, a good balance has been found between theory and practice.
 
@@ -123,41 +123,53 @@ If we leave aside the excessive speed at which the theory has had to be given, I
 
 According to National Human Reseach intitute[^3], a GMO is a plant, animal or microbe in which one or more changes have been made to the genome, typically using high-tech genetic engineering, in an attempt to alter the characteristics of an organism. Genes can be introduced, enhanced or deleted within a species, across species or even across kingdoms. GMOs may be used for a variety of purposes, such as making human insulin, producing fermented beverages and developing pesticide resistance in crop plants.
 
+[^3]:
+https://www.genome.gov/
+
 **What is the purpose of my GMO?**
 
-Synthetic microfibers have become one of the most important sources of pollution for freshwater systems and the oceans.  They also pollute the atmosphere and soil. Like many microplastics, they can affect the health of many species, including humans. A large proportion of these synthetic fibers are caused by household activities. This project is an attempt to understand this problem, create awareness, adopt existing solutions and design new ones to reduce this problem at household level [^4] [^5] [^6] [^7].
+Synthetic microfibers have become one of the most important sources of pollution for freshwater systems and the oceans. They also pollute the atmosphere and soil. Like many microplastics, they can affect the health of many species, including humans. A large proportion of these synthetic fibers are caused by household activities. This project is an attempt to understand this problem, create awareness, adopt existing solutions, and design new ones to reduce this problem at the household level [^4] [^5] [^6].
 
-The main purpose is to design an organism capable of trapping microfibers from the environment and accumulating them somewhere where someone can collect them or metabolize them to reduce the pollution they produce. Why not find just a PET-digesting enzime like PETase found in *Ideonella sakaiensis* [^8]? So far there have been various attempts to increase the rate of plastic degradation of these organisms, the risk is that if the activity is no so fast many nanoplastics are generated, which further increase the problem. 
+The main purpose is to design an organism capable of trapping microfibers from the environment and accumulating them somewhere where someone can collect them or metabolize them to reduce the pollution they produce. Why not find just a PET-digesting enzyme like PETase found in *Ideonella sakaiensis* [^7]? So far, there have been various attempts to increase the rate of plastic degradation by these organisms. The risk is that if the activity is not so fast, many nanoplastics will be generated, which further increases the problem. 
 
-There are several attempts to capture, aggregate or destroy microfibers in water, but I have not found any that try to capture those from the floor and indoor air in homes aside from air filters. This will therefore be the "ecological" niche of the new organism, **the microfibercatcher** that I am designing. I think it is better to prevent these microfibers from reaching aquatic systems, that is, to capture them from the environment and accumulate them so that they can be collected. It goes without saying that the best option would be not to wear synthetic clothing that produces microfibers. 
+There are several attempts to capture, aggregate, or destroy microfibers in water, but I have not found any that try to capture those from the floor and indoor air in homes aside from air filters. This will therefore be the "ecological" niche of the new organism, **the microfibercatcher** that I am designing. I think it is better to prevent these microfibers from reaching aquatic systems, that is, to capture them from the environment and accumulate them so that they can be collected. It goes without saying that the best option would be not to wear synthetic clothing that produces microfibers. 
 
-My thesis is based on the finding that static electricity acts as a dust trap (fibers and hair) producing the typical balls of dust that run around the house. These lints occur in greater abundance in winter when we wear thicker, more fibrous clothes and use heating which dries out the environment causing more static electricity.
+My thesis is based on the finding that static electricity acts as a dust trap for fibers and hairs producing the typical balls of dust that run around the house. These lints occur in greater abundance in winter when we wear thicker, more fibrous clothes and use heating, which dries out the environment and causes more static electricity.
 
-**The reseach of static electricity in living beings**
+**Looking for static electricity in living beings**
 
-First idea was the static electricity of the cats fur but after a quick research it seems that the cat fur doesnt't produces estatic electricity by itself. It seems that as in the case of cats and other animals, the static electricity in their hair is associated with the type of hair and the behavior of rubbing on surfaces. I don't see it easy to relate it to genetics so this research, for now, has led me to a dead end. 
+The first idea was the static electricity of the cat's fur, but after some quick research, it seems that the cat's fur doesn't produce static electricity by itself. It seems that, as in the case of cats and other animals, the static electricity in their hair is associated with the type of hair and the behavior of rubbing on surfaces. I don't see it as easy to relate it to genetic, so this research, for now, has led me to a dead end. 
 ![Electrostatic cat by Sean McGrath](../images/ElectrostaticCat_by_Sean%20McGrath.jpg)
 
 Not so soon! What if we could find a way to make our pets' hair self-generate static electricity without harming the animals?
 
-![WIP](../images/WIP.png){width=400}
+Indeed, there are microbes, like *Geobacter sulfurreducens* capable of building external protein networks of nanowires to exchange electrons outside their cell walls. This was called  microbial nanowires (MNWs). The nanowires are thin structures 3 to 5 nanometers in diameter, 100000 times thinner than human hair. This was discovered by Reguera et al (2005)[^8]. After this initial discovery, other research groups have found this characteristic in other types of microorganisms. The list of MNW-producing microorganisms is growing. We can see a [summary table](https://www.microbiologyresearch.org/content/micro/10.1099/mic.0.000382.T1?fmt=ahah&fullscreen=true#R55) collected in the article “Microbial nanowires: an electrifying tale” [^9]. According to this paper, the MNWs discovered at the moment can be classified into three different types. 
 
+**Creating a new organism**
 
+At this point, and given my limited knowledge of genetic engineering, I will briefly describe the steps to follow without going into too much detail. 
 
+The organism we want to modify could be any pet that runs around the house, specifically its hair. The trait we want to add is the ability to self-generate electricity to capture dust (microfibres) from the environment.
 
+The next step would be to identify the genes responsible for creating the proteins that form the nanowires in some of the microbes that produce them and isolate these genes.
 
-[^3]:
-https://www.genome.gov/
+From what I've read, to change genes in living cells, techniques such as CRISPR-Cas9 should be used at this stage. What entails designing the guide RNA that will take the Cas9 enzyme to the sequence we want to modify, in this case the genes that give the characteristics of our beloved host's hair. If all goes well, this enzyme will cut the target's DNA at the desired site and insert the sequence with the desired trait. 
+​
+As I suppose we love our pet very much, we will try all this in a fertilized egg.
+
 [^4]:
-Jean-Pierre W. Desforges, Moira Galbraith, Neil Dangerfield, Peter S. Ross,
-Widespread distribution of microplastics in subsurface seawater in the NE Pacific Ocean, Marine Pollution Bulletin, Volume 79, Issues 1–2, 2014,Pages 94-99,ISSN 0025-326X,https://doi.org/10.1016/j.marpolbul.2013.12.035.
-[^5]:
 Boucher, J. and Friot D. (2017). Primary Microplastics in the Oceans: A Global Evaluation of Sources. Gland, Switzerland: IUCN. 43pp.
-[^6]:
+[^5]:
 Liu J, Liu Q, An L, Wang M, Yang Q, Zhu B, Ding J, Ye C, Xu Y. Microfiber Pollution in the Earth System. Rev Environ Contam Toxicol. 2022;260(1):13. doi: 10.1007/s44169-022-00015-9. Epub 2022 Dec 6. PMCID: PMC9734713.
-[^7]:
+[^6]:
 https://cen.acs.org/articles/95/i7/Tracing-chemistry-household-dust.html
-[^8]:
+[^7]:
 Yoshida S., Hiraga K., Takehara T., Taniguchi I., Yamaji H., Maeda Y., Toyohara K., Miyamoto K., Kimura Y., and Oda K. (2016). A bacterium that degrades and assimilates poly(ethylene terephthalate). Science 351, 1196-1199.
+[^8]:
+Reguera, G., McCarthy, K. D., Mehta, T., Nicoll, J. S., Tuominen, M. T., & Lovley, D. R. (2005). Extracellular electron transfer via microbial nanowires. Nature, 435(7045), 1098-1101.
+[^9]:
+Sandeep Sure, M. Leigh Ackland, Angel A. J. Torriero, Alok Adholeya and Mandira Kochar. Microbial nanowires: an electrifying tale. https://doi.org/10.1099/mic.0.000382
+
+
 
 
