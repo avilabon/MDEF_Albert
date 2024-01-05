@@ -90,15 +90,16 @@ and I start pedaling through the streets of Barcelona. I feel ashamed just to
 be posting the messages. It seems like I'm going a little late or maybe it's
 Friday but there isn't much traffic.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/882503581?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BIKESCARS_AlbertVilaMDEF2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4DpTD0Mzkc?si=yHaf1c5QLh-tfHQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ##Reflections, conclusions and new questions
 
 1. Designing the exploration:
-● Looking for the message, I have not been able to find a
-universal icon/symbol to say thank you. Why?
-● Should I use words, icons or emoticons?
-● How visible must the messages be in order to attract attention?
+
+    - Looking for the message, I have not been able to find a
+    universal icon/symbol to say thank you. Why?
+    - Should I use words, icons or emoticons?
+    - How visible must the messages be in order to attract attention?
 
 2. I am somewhat shy and I have a family and a reputation to maintain.
 Well, it's all excuses, the truth is that it embraces me. This has been a
