@@ -11,6 +11,8 @@ There, we could see amazing things about artificial intelligence. It becomes dif
 
 ## Finding an interesting dataset
 
+Artificial intelligence sees the world from data. For this reason, having good and large datasets is essential for its final good operation.
+
 ![Datasets](../images/DatasetEI_Ex1.PNG)
 
 ## Designing a project that take advantage of AI technology
