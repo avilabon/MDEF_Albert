@@ -2,6 +2,29 @@
 
 This has been a busy week full of very inspiring projects, places and people. During the sessions facilitated by Holon, we explored and tried to understand a little better the economic, social and political factors involved in land and soil in the city. On a more practical level, we went around the neighborhood in search of elements that caught our attention and tensions. Later, we were grouped by interests in order to design a small intervention with the communities that were working on the same type of tension.
 
+???quote "Social design resources and frameworks"
+    - **Prototype Mapping**: It is a mapping sheet included in [Designing kit, a human centered design field guide](https://www.designkit.org/index.html)
+
+    - **Leverage points**:[^1]
+    These are places within a complex system (a corporation, an economy, a living body, a city, an ecosystem) where a small shift in one thing can produce big changes in everything.
+    ![Leverage points](../images/DWO-LeveragePointsDonellaMeadows.png){width=600px}[^2]
+    [^1]:
+    https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+    [^2]:
+    https://medium.com/converge-perspectives/identifying-leverage-points-in-a-system-3b917f70ab13
+
+    - **The Emerging Transition Design Approach**: A paper by Terry Irwin. [^3]
+    [^3]:
+    Irwin, Terry. (2018). The Emerging Transition Design Approach. 10.21606/dma.2017.210. https://www.researchgate.net/publication/329155155_The_Emerging_Transition_Design_Approach
+
+    - [**The social Design Toolkit**](https://issuu.com/mlamadrid/docs/toolkit_3)
+
+    - Five components of social design: A unified framework to support research and practice [^4]
+    [^4]:
+    Nynke Tromp & Stéphane Vial (2023) Five components of social design: A unified framework to support research and practice, The Design Journal, 26:2, 210-228, DOI: 10.1080/14606925.2022.2088098
+
+
+
 ???quote "References"
     **Akasha Hub**: It is a decentralized project and a self-managed community, with its main node in Barcelona. They co-create communities and interdisciplinary projects for social change.
     Contact: https://akasha.barcelona/en/ 
