@@ -30,8 +30,10 @@ nav:
      - Design With Others: term1/08-DesignWithOthers.md
      - Extended Intelligences: term1/09-ExtendedIntelligences.md
      - Design Dialogs: term1/10-DesignDialogs.md
-
-#     - Term 2:
+  - Term 2:
+      - Design Studio 02:
+        - Design Studio 02: term2/T2-01-DesignStudio02/T2-01-DesignStudioIntro.md
+      - Designing in State of Climate Emergency: term2/T2-02-DesigningStateClimateEmergency.md
 
 
 extra:
