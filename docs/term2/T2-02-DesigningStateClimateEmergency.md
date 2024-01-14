@@ -5,11 +5,26 @@
 A day of overstimulation with many images and concepts. Fortunately, in the end we saved eco-anxiety with some green shoots and hopeful initiatives and conpcepts.
 
 
-## Intervention: talking about climate change
+## Intervention: Invite people to take climate action
 
-This video has great tips for starting conversations about climate change with people. It is worth saying that these tips, basically empathic communication, are useful for any conversation.
+**Team members:**
+[Anna Fedele](https://https://annafedele.github.io/mdef/),
+[Dhrishya Ramadass](https://dhrishyaramadass.github.io/mdefwebsite/),
+[Emmanuelle Pangilinan](https://minnie-at-iaac.github.io/),
+[Everardo Castro](https://everardocastro.github.io/mdef1/) and
+[Albert Vila Bonfill](https://avilabon.github.io/MDEF_Albert/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UHPZw0zbHNE?si=mA3aU6N_Z1VINzr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Topic: Relationship with sun**
+
+Our intention has been to start conversations around people's relationship with the sun. We created a folding banner with a sun inside whose rays contained messages, questions, statements that could spark a conversation about the chosen topic. We also made a couple of banners and a wooden sun with lollipop rays to thank people for the time shared.
+
+![Talking abous relationship with sun](../images/ClimateTalks.JPG)
+
+Although it may seem violent to start a conversation with a stranger in public and it may seem even more difficult to talk about climate change, it is worth saying that it is possible, without rushing, with a big smile and without making anyone feel guilty.
+
+???+ quote "References"
+    - Video with great tips for starting conversations about climate change with people. It is worth saying that these tips, basically empathic communication, are useful for any conversation.
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UHPZw0zbHNE?si=mA3aU6N_Z1VINzr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Reflections
