@@ -2,7 +2,7 @@
 
 ## Intro day
 
-A day of overstimulation with many images and concepts. Fortunately, in the end we saved eco-anxiety with some green shoots and hopeful initiatives and conpcepts.
+A day of overstimulation with many images and concepts. Fortunately, in the end we saved eco-anxiety with some green shoots and hopeful initiatives and concepts.
 
 
 ## Intervention: Invite people to take climate action
@@ -29,5 +29,8 @@ Although it may seem violent to start a conversation with a stranger in public a
 
 ## Reflections
 There have been no magic design formulas or infallible tricks, not even a decalogue of rules behind the title of this seminar. It has been a course where we have worked at a more inner, more basic level. We have touched and stirred concepts such as our conception of time, our position in space or gratitude. We also flew over the state of the world and the multiple interconnected and synchronous crises (polycrisis) that are taking place in it. We talked about how we've gone from being humans to being users. And also about the interesting shift from human-centered design to a sun-centered design.
+
+It is a challenge to find ways to stop being users and become humans again...
+
 
 
