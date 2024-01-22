@@ -3,8 +3,8 @@
 This has been a busy week full of very inspiring projects, places and people. During the sessions facilitated by Holon, we explored and tried to understand a little better the economic, social and political factors involved in land and soil in the city. On a more practical level, we went around the neighborhood in search of elements that caught our attention and tensions. Later, we were grouped by interests in order to design a small intervention with the communities that were working on the same type of tension.
 
 ???quote "Social design resources and frameworks"
-    - Theories of change and action
-    - Transitions mino, meso, macro
+    - **Theories of change and action**
+    - **Transitions mino, meso, macro**
     - **Prototype Mapping**: It is a mapping sheet included in [Designing kit, a human centered design field guide](https://www.designkit.org/index.html)
 
     - **Leverage points**:[^1]
