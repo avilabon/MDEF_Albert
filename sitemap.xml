@@ -101,22 +101,32 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-05-DigitalPrototypingForDesign/</loc>
-         <lastmod>2024-02-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-06-MeasuringTheWorld/</loc>
          <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-07-DesigningWithExtendedItelligences/</loc>
+         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-07-DesigningWithExtendedIntelligences/</loc>
          <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-01-DesignStudio02/T2-01-DesignStudioIntro/</loc>
+         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-01-DesignStudio02/T2-01-01DesignStudioIntro/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-05-DigitalPrototypingForDesign/T2-05-01-DP4D_Module1/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-05-DigitalPrototypingForDesign/T2-05-02-DP4D_Module2/</loc>
+         <lastmod>2024-02-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://avilabon.github.io/MDEF_Albert/term2/T2-05-DigitalPrototypingForDesign/T2-05-03-DP4D_Microchallenge1/</loc>
          <lastmod>2024-02-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
