@@ -1,14 +1,12 @@
 # **Digital Prototyping For Design: Microchallenge 1**
 
-![WIP](../../images/WIP.png){Width=400}
 ## Microchallenge1 report
 
 https://github.com/AnthuanetF/Micro-Challenge-MDEF24/blob/main/Microchallenge1.md
 
 
-
 ## Reflexions
-
+![WIP](../../images/WIP.png){Width=400}
 ### Specific reflexions about the project
 - New questions have arisen behind each small advance or error during the process.
 - 
