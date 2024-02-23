@@ -9,6 +9,3 @@ We have at our disposal a technology that allows us to better understand the wor
 I appeal to the softwired nature of human biology and psychology. That is to say, to that part that can be shaped by social and individual influences, to demand more empathetic behaviors towards the rest of the elements with which we share existence. 
 Although it may not always be like this, I want to keep thinking that to know and understand is to love and respect. For this reason, this project is aimed at empowering people who try to understand the world to protect it is a priority of this project.
 
-
-## What, how and why?
-
