@@ -8,13 +8,14 @@ The unknown internet infrastructure and its effects
 Do we really know how the internet works? Do we know what's beyond our screen when we surf the web? How does the data move to be able to access any information in an instant even if it is on the other side of the world?
 
 ![InternetTour](../../images/InternetTour1.JPG){Width=100%}
+
 The Internet tour guided by Mario Santamaria took place in one of the key areas for internet connectivity in Barcelona and Catalonia. The tour was entirely through the Zona Franca in the Sants-Montjuic district. We passed near the Catnix (internet neutral point in Catalonia) and followed part of some of the most important internet cables in the country. This allowed us to discover how several data centers have emerged in this area in recent years.
 
-![InternetTour](../../images/InternetTourMap.JPG)Width=100%}
+![InternetTour](../../images/InternetTourMap.JPG){Width=100%}
 
 
 ???+ quote "References"
-    - Sumarine Cable Map: https://www.submarinecablemap.com/
+    - Sumarine Cable Map: https://www.submarinecablemap.com/ and https://submarine-cable-map-2023.telegeography.com/
     ![Submarine cables map](../../images/SubmarineCablesMap.png){Width=100%}
     - Data Center Map: https://www.datacentermap.com/
     ![Data center map](../../images/DataCenterMap.PNG){Width=100%}
