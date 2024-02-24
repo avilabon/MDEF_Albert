@@ -15,7 +15,7 @@ After the Internet Tour we had a nice outdoor talk given by Bani Brusadin. In th
 
 ### Reflections
 
-The most common thing is that we see these multiscalar complex intelligence systems as something large and incomprehensible , a monster made up of large infrastructures, data, power games, political and geopolitical interests where we have little or nothing to say. The talk has opened up a window of opportunity for me to fight from, from a position of not being able to play with the different ways of extending the meanings, of building other stories, taking advantage of the characteristics of the system and its fails and incompatibilities, taking advantage of the that happens inside but also on the skin of this vast automaton.
+The most common thing is that we see these multiscalar complex intelligence systems as something large and incomprehensible, a monster made up of large infrastructures, data, power games, political and geopolitical interests where we have little or nothing to say. The talk has opened up a window of opportunity for me to fight, from a powerless position. Playing with the different ways of extending the meanings, of building other stories, by taking advantage of the characteristics of the system and its fails and incompatibilities, taking advantage of the that happens inside but also on the skin of this vast automaton.
 
 
 
