@@ -22,6 +22,8 @@ The Internet tour guided by Mario Santamaria took place in one of the key areas 
     - What is a neutral point Video: 
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/7oa80cSU1Rg?si=5ozk79DkKCYhIjyl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     - Catnix: https://www.catnix.net/en/where-to-connect/
+    - Internet tour: https://internetour.com/
+
 
 
 ### Reflections
