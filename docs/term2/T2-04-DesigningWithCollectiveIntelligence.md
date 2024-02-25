@@ -12,7 +12,8 @@ We explored technologies, methodologies and estrategies for create trustworthy a
 ??? quote "Glossary of terms"
     - Blockchain
     - DAOs, Decentralized Autonomous Organizations
-    - NFTs and smart contracts
+    - NFTs
+    - Smart contracts
     - Cryptocurrencies
 
 ??? quote "References and tools"
