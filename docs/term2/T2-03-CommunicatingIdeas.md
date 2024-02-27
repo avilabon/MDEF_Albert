@@ -11,7 +11,7 @@ Sharing and understanding my partners ideas and future projects. Building togeth
 
 ![Tandem interview](../images/Tandem.JPG){Width=100%}
 
-To carry out this exercise, the three of us went on an excursion through a beautiful natural area. Spending several hours together walking in an environment different from the class gave us the opportunity to have very interesting and rewarding conversations. We talk about many topics related to each person's life moment and their present and future concerns and hopes. It was a beautiful day with some sensitive, kind and committed people.
+To carry out this exercise, the three of us went on an excursion through a beautiful natural area. Spending several hours together walking in an environment different from the class gave us the opportunity to have very interesting and rewarding conversations. We talk about many topics related to each person's life moment and our present and future concerns and hopes. It was a beautiful day with some sensitive, kind and committed people.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/uJcjDwr-P6c?si=U5LkO38Zky57NFUL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
