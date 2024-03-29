@@ -49,8 +49,6 @@ https://github.com/AnthuanetF/Micro-Challenge-MDEF24/blob/main/Microchallenge1.m
 
 - My contribution to the project may have to be valued by my partner in this microchallenge. However, if I have to evaluate myself, I think I have done the best I could. I have dedicated all the hours that I could. Perhaps time management could have been improved in some phases of the project.
 
-
-
 - When things don't work out the way you expect and the deadline is approaching, it's easy to panic, but in those moments it is essential to remain calm so as not to contaminate your partner.
 
 - Having trusted people you know little to create something together that turned out well helps me trust the world.
