@@ -1,4 +1,4 @@
-# **Digital Prototyping For Design: 2D fabrication, parametric design and biomaterials**
+# **Digital Prototyping For Design: 2D Fabrication, Parametric Design, Biomaterials**
 
 ## Representing geographic information with laser cutter and biomaterials.
 Team members: Albert Vila
