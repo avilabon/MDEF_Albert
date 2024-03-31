@@ -35,7 +35,9 @@ nav:
         - Design Studio 02 - Intro: term2/T2-01-DesignStudio02/T2-01-01DesignStudioIntro.md
         - Intervention T2-01: term2/T2-01-DesignStudio02/T2-01-02Intervention1.md
       - Designing in State of Climate Emergency: term2/T2-02-DesigningStateClimateEmergency.md
-      - Communicating Ideas: term2/T2-03-CommunicatingIdeas.md
+      - Communicating Ideas:
+        - Communicating ideas: term2/T2-03-CommunicatingIdeas/T2-03-01-CI_Reflections.md  
+        - Tandem exercice: term2/T2-03-CommunicatingIdeas/T2-03-02-CI_Tandem.md
       - Future Talks:
         - Design With Values-Distributed Design: term2/T2-04-FutureTalks/T2-04-01-DesignWithValues-DD.md
         - Networks of Co-Responsability-WetLab: term2/T2-04-FutureTalks/T2-04-02-WetLab.md
