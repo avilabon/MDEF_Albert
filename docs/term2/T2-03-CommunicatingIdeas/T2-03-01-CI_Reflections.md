@@ -7,7 +7,7 @@ This entire subject is designed so that we are able to effectively communicate o
 
 From these sessions it has become clear to me that each idea and each project has a story behind it. Although having a brand and products that are truly full of values and meaning is the most essential, we must not forget the importance of knowing how to tell the story or stories behind them. For me, honesty and sincerity are everything, I can be fooled as a consumer but I don't want to fool anyone as a seller. I don't want to disguise a product or brand with something that it isn't to make it more attractive and interesting, I want the product I offer to be attractive and interesting in itself. If what we seek is to be transformative with our work, we must learn to communicate in the most effective way and the most appropriate means to reach different interest groups.
 
-## Class 1: Introduction to communication Models, Storytelling techniques
+## Session 1: Introduction to communication Models, Storytelling techniques
 
 It seems that telling stories is in the deepest configuration of our minds as one of the most effective “innate” ways of communicating with each other and with ourselves. Telling and listening to stories makes us human. When we listen to a story, many internal brain mechanisms can be activated, stimulating our senses and our motor mechanism.
 
@@ -20,7 +20,7 @@ There are some essential elements to take into account in the stories, also some
     - [The lucky iron fish project](https://www.youtube.com/watch?v=XoYUmexNhfI)
 
 
-## Class 2: 
+## Session 2: Project/Brand personality, arquetypes, tones of voice, feelings…
 
 We have been simultaneously defining the personality and tone of our project and our brand. This can often be a bit confusing, especially if we want to create a brand that will have diverse products/projects aimed at different audiences/clients/communities. However, I think it is a very good exercise to think that each project or product of our brand must fit with the general personality of the brand.
 
@@ -28,3 +28,6 @@ I have become aware of the importance of the brand's voice and the tone of voice
 
 To define the personality of our brand we have worked with archetypes. I see interesting things in several of them and it is difficult for me to define myself in any specific one. I feel like a mix of sage, creator, magician, explorer and caregiver. I will continue to think about it, perhaps over time one of the archetypes will be accentuated above the others. Time will tell.
 
+Regarding feelings, what I want to convey to my stakeholders is tranquility and confidence. Let them see that I understand their problem, idea or project, let them feel heard and at the same time listen to me, let them join my enthusiasm, let them be encouraged to embark on a new adventure together. May they have the confidence that even if we begin a new path, they will feel that they are in the right hands.
+
+## Session 3
