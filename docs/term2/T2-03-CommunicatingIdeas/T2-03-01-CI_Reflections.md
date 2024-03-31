@@ -25,13 +25,18 @@ To define the personality of our brand we have worked with archetypes. I see int
 
 Regarding feelings, what I want to convey to my stakeholders is tranquility and confidence. Let them see that I understand their problem, idea or project, let them feel heard and at the same time listen to me, let them join my enthusiasm, let them be encouraged to embark on a new adventure together. May they have the confidence that even if we begin a new path, they will feel that they are in the right hands.
 
+![Identity Work](../../images/T2_CI_IdentityProjectBrandred.gif)
+
 ## Session 3: Transmedia storytelling
 
 The idea is to try to unify and enhance intangible values and, over time, communicate through them.
 
 The importance of the media is also highlighted. "The medium is the message." Marshall McLuhan. The central idea of this statement is that the medium through which a message is communicated has a significant impact on how that message is perceived and understood. I should think more about it.
 
-During the session we have clarified the concepts of cross-media, multi-media and trans-media. The concept of trans-media is new to me and it is about explaining a story through many different media or platforms in which each one plays a different role. It is not the same story adapted to different media, but rather each medium brings its own nuances to the story.
+During the session we have clarified the concepts of cross-media, multi-media and trans-media. The concept of trans-media is new to me and it is about explaining a story through many different media or platforms in which each one plays a different role. It is not the same story adapted to different media, but rather each medium brings its own nuances to the story keeping audience actively involved..
+
+![The brandsphere by The Brian Solis](../../images/T2_CI_Brandsphere_by_BrianSolis_Jess3.jpg)
+
 
 Right now, due to my lack of fluency in some media, it feels like a full-time job for me to communicate through so many different mediums. For this reason, it will be essential to choose well in which medias I perform best and which are the best medias to reach my stakeholders because I will surely need help from communication professionals. 
 
