@@ -14,11 +14,6 @@ It seems that telling stories is in the deepest configuration of our minds as on
 To explain something to other people in a way that resonates with them, you need tools and context.  Although it seems a very complicated task to those who do not come from the field of communication, it is essential to adjust the narrative that we apply to a story in order to make it suitable for the audience, the level of knowledge they have on the subject and what we want to make people feel or transmit. I will have to work and pay attention to this aspect.
 There are some essential elements to take into account in the stories, also some essential questions. There are different narrative structures and tricks to make a good story. From now on I will try to focus more on how I tell the stories and try to be more aware and incorporate different elements, structures and tricks.
 
-??? quote "References"
-    - [The golden circle (What, how, why) by Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) 
-    - [Designing an organization purpose statement with IDEO tool](https://www.ideo.com/journal/design-an-organizations-purpose-statement-with-this-tool)
-    - [The lucky iron fish project](https://www.youtube.com/watch?v=XoYUmexNhfI)
-
 
 ## Session 2: Project/Brand personality, arquetypes, tones of voice, feelings…
 
@@ -39,3 +34,11 @@ The importance of the media is also highlighted. "The medium is the message." Ma
 During the session we have clarified the concepts of cross-media, multi-media and trans-media. The concept of trans-media is new to me and it is about explaining a story through many different media or platforms in which each one plays a different role. It is not the same story adapted to different media, but rather each medium brings its own nuances to the story.
 
 Right now, due to my lack of fluency in some media, it feels like a full-time job for me to communicate through so many different mediums. For this reason, it will be essential to choose well in which medias I perform best and which are the best medias to reach my stakeholders because I will surely need help from communication professionals. 
+
+
+
+??? quote "References"
+    - [The golden circle (What, how, why) by Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) 
+    - [Designing an organization purpose statement with IDEO tool](https://www.ideo.com/journal/design-an-organizations-purpose-statement-with-this-tool)
+    - [The lucky iron fish project](https://www.youtube.com/watch?v=XoYUmexNhfI)
+    - [Transmedia storytelling](https://www.youtube.com/watch?v=5IFnSp2ilcQ)
