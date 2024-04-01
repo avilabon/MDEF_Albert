@@ -2,10 +2,20 @@
 
 ## Representing geographic information with laser cutter and biomaterials.
 Team members: Albert Vila
-
 ![Maqueta](../../images/4setmanesdespres.JPG)
-
 ![Maqueta](../../images/Maqueta.JPG)
+
+
+There are several sites where you can select a zone and create a 3D model of terrain. These site are very fast and useful if you feel ok with the information they provide to you. I you want to add more geographic information to the model you should use a geographic information software.
+
+??? quote "3D Map references"
+  - Contour: https://contourmapcreator.urgr8.ch/
+  - Maps 3D: https://maps3d.io/
+  
+  
+
+
+Due to my background working with geographic information I feel more confortable controlling  all the layers of information.
 
 
 
