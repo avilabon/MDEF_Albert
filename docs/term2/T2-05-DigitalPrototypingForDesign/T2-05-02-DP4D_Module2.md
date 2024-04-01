@@ -1,8 +1,15 @@
 # **Digital Prototyping For Design: 3D Printing, Bio-Grow Materials and Paste Printing**
 
+
+
+
 ## 3D rugged cases for my final project
 
 ![WIP](../../images/WIP.png){Width=400}
+
+
+
+
 
 
 ## Mycelium as an insulating material

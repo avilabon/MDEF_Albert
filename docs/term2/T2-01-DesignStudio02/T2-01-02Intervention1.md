@@ -1,4 +1,4 @@
-# **Intervention 01: Engaging communities and engaging communities myself.**
+# **Intervention 01: Engage communities with my project and involve myself with communities.**
 
 Much of this intervention is about getting involved. Get involved in both senses, involve others and get involved yourself. That is, until the barriers between oneself and others become so blurred that we do not know where one ends and the others begin. Also about, getting out of my bubble and understand that I am not alone in the world with my ideas. Break the ice. It is important to lose the ridiculous fear of sharing, no one is going to steal or copy our idea and lose the fear of ridicule, no one is going to laugh at our idea.
 

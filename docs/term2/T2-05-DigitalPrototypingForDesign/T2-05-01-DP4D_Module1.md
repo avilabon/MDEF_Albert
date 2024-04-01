@@ -9,6 +9,17 @@ Team members: Albert Vila
 
 
 
+???+ info "Biomaterials testes recipes"
+    - 01. Alginate
+    - 02. Gelatine
+    - 03. Agar agar
+    - 04. Gelatine foam
+    - 05. Biosilicone
+    - 06. Mix biosilicone with agar
+    
+
+
+
 ### Reflection (Facts, feelings, findings and future)
 
 ![WIP](../../images/WIP.png){width=400px}
