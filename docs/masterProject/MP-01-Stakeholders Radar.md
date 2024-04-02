@@ -1,6 +1,0 @@
-# **Master project**
-
-Coming soon!
-
-
-

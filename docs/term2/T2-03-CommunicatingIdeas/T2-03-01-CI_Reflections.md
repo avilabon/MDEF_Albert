@@ -3,15 +3,16 @@
 
 ## General reflections
 
-This entire subject is designed so that we are able to effectively communicate our project. Sometimes lack of communication can cause great ideas and projects to end up dying due to lack of good communication and we don't want that to happen to our projects.
+This entire subject is designed so that we are able to effectively communicate our project. Sometimes great ideas and projects end up dying due to lack of good communication and we don't want that to happen to our projects.
 
 From these sessions it has become clear to me that each idea and each project has a story behind it. Although having a brand and products that are truly full of values and meaning is the most essential, we must not forget the importance of knowing how to tell the story or stories behind them. For me, honesty and sincerity are everything, I can be fooled as a consumer but I don't want to fool anyone as a seller. I don't want to disguise a product or brand with something that it isn't to make it more attractive and interesting, I want the product I offer to be attractive and interesting in itself. If what we seek is to be transformative with our work, we must learn to communicate in the most effective way and the most appropriate means to reach different interest groups.
 
 ## Session 1: Introduction to communication Models, Storytelling techniques
 
-It seems that telling stories is in the deepest configuration of our minds as one of the most effective “innate” ways of communicating with each other and with ourselves. Telling and listening to stories makes us human. When we listen to a story, many internal brain mechanisms can be activated, stimulating our senses and our motor mechanism.
+It seems that telling stories is in the deepest configuration of our minds as one of the most effective “innate” ways of communicating with each other and with ourselves. Telling and listening to stories makes us human. When we listen to a story many internal brain mechanisms can be activated, stimulating our senses and our motor mechanism.
 
 To explain something to other people in a way that resonates with them, you need tools and context.  Although it seems a very complicated task to those who do not come from the field of communication, it is essential to adjust the narrative that we apply to a story in order to make it suitable for the audience, the level of knowledge they have on the subject and what we want to make people feel or transmit. I will have to work and pay attention to this aspect.
+
 There are some essential elements to take into account in the stories, also some essential questions. There are different narrative structures and tricks to make a good story. From now on I will try to focus more on how I tell the stories and try to be more aware and incorporate different elements, structures and tricks.
 
 
