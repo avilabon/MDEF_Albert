@@ -22,10 +22,10 @@ A better understanding of the world we live in, and especially of the other livi
 To create bridges, artifacts, methodologies and tools open-source for the study of biodiversity and natural systems using new technologies., so that, we can democratize and make more affordable to researches and citizens to study biodiversity with less intrusive methodologies, with the aim of creating more knowledge, respect  and love for other non-human entities.
 
 
-### Brand vision
+### Brand vision tover time
 
 | Now | 5 years | 10 years | 15 years |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
+| Create the first prototypes and grow and strengthen the associated community   | Have consolidated a solid network that functions independently, creating bridges between different research groups, nature managers and citizen science programs     | The study of biodiversity has become sufficiently democratized to impact collective decisions.    | Citizen science and knowledge of biodiversity are a key point in making political and personal decisions thanks to knowledge, respect and love for other living beings.     |
 
 ![Work in progress](../images/WIP.png){width=400px}
