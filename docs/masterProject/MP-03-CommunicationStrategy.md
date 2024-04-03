@@ -1,4 +1,4 @@
-# **Master project: Communication Strategy**
+# **Communication Strategy**
 
 ## Stakeholders Radar
 

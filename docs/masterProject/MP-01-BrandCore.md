@@ -1,4 +1,4 @@
-# **Master project: Brand Core**
+# **Brand Core**
 
 ### Brand motto
 Designing open-source customizable solutions for the study and conservation of biodiversity
@@ -22,10 +22,21 @@ A better understanding of the world we live in, and especially of the other livi
 To create bridges, artifacts, methodologies and tools open-source for the study of biodiversity and natural systems using new technologies., so that, we can democratize and make more affordable to researches and citizens to study biodiversity with less intrusive methodologies, with the aim of creating more knowledge, respect  and love for other non-human entities.
 
 
-### Brand vision tover time
+### Why?
+
+![Why](../images/MP_Why.jpg)
+
+
+
+### Brand vision over time
 
 | Now | 5 years | 10 years | 15 years |
 | -------- | -------- | -------- | -------- |
 | Create the first prototypes and grow and strengthen the associated community   | Have consolidated a solid network that functions independently, creating bridges between different research groups, nature managers and citizen science programs     | The study of biodiversity has become sufficiently democratized to impact collective decisions.    | Citizen science and knowledge of biodiversity are a key point in making political and personal decisions thanks to knowledge, respect and love for other living beings.     |
 
-![Work in progress](../images/WIP.png){width=400px}
+
+
+### Brand personality (archetypes)
+
+![Brand archetypes](../images/MP_Archetypes.jpg)
+
