@@ -18,10 +18,15 @@ BARCELONA, 3 April 2024, 3rd floor of a dusty building, 3rd terms of our master,
 
 ![Brainstorm](../../images/T3-DS-AOWS_Braistorm.JPG)
 
+![Linking brainstorm ideas](../../images/T3-DS-AOWS_BraistormPhoto.JPG)
+
+
 ## Horizon scanning the theme selected
 The phenomenon we're exploring encompasses the intricate web of interconnections among biological entities, human societies, and the environment. It reflects a state of disconnection from these interconnected systems, resulting in a cascade of consequences such as systemic post colonialist attitudes, displacement, fragmented identities, and unsustainable practices like uncontrolled growth, forced innovation, and competition.
 
 ![Theme selected](../../images/T3-DS-AOWS_ThemeSelected.JPG)
+
+![Theme selected](../../images/T3-DS-AOWS_ThemeSelectedPhoto.JPG)
 
 ## Framing signals
 ![Framing signals](../../images/T3-DS-AOWS_FramingSignals.JPG)
@@ -39,6 +44,14 @@ Alternative  "mock" title: The unbeareble connection of everything
 | ![Rapid Red Tape](../../images/T3-DS-RapidRedTape.JPG)  | Refers to excessive or unnecessary regulations, processes, and administrative procedures that can hinder efficiency, innovation, and citizen engagement. Red tape often leads to frustration, bureaucracy, and a sense of disempowerment among individuals and businesses dealing with government agencies or large organizations. |
 | ![Automation Identity](../../images/T3-DS-AutomationIdentity.JPG)  | This term encapsulates the idea of individuals and societies grappling with shifting dynamics in the labor market due to AI automation, prompting a reconsideration of what it means to be human and finding new avenues for personal and collective fulfillment. |
 
+## Sharing
+
+![Sharing](../../images/T3-DS-AOWS_SharingSession.JPG)
+
 ## Reflections
  
 I think it has been a great collective exercise. We have put collective intelligence to work to overcome personal visions and we have managed, in record time, to generate some very interesting proposals to update the AOWS.
+
+On a more personal level, comment that I need more time to think, mature and digest all these elements. In fact, I think that the **acceleration or the loss of slowness in many modern processes**in the broad sense may be one of the cards to add to the new deck. People are looking more and more for those spaces for slowness and reconnection with oneself and with natural rhythms. I think that the creation of those spaces/times for transition is essential.
+
+I must admit that although too fast for my cognitive metabolism, I am happy to have taken the workshop as it has allowed me to sharpen my senses and broaden my vision towards new weak signals.
