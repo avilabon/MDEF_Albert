@@ -48,9 +48,10 @@ Alternative  "mock" title: The unbeareble connection of everything
 
 ![Sharing](../../images/T3-DS-AOWS_SharingSession.JPG)
 
+
 ## Reflections
  
-I think it has been a great collective exercise. We have put collective intelligence to work to overcome personal visions and we have managed, in record time, to generate some very interesting proposals to update the AOWS.
+I think it has been a great collective exercise. We have put collective intelligence to work to overcome personal visions and we have managed, in record time, to generate some very interesting proposals to update the AOWS. It is very gratifying to see how the result of intelligence and collective work is, in most cases, much better than the sum of the parts.
 
 On a more personal level, comment that I need more time to think, mature and digest all these elements. In fact, I think that the **acceleration or the loss of slowness in many modern processes**in the broad sense may be one of the cards to add to the new deck. People are looking more and more for those spaces for slowness and reconnection with oneself and with natural rhythms. I think that the creation of those spaces/times for transition is essential.
 
