@@ -36,11 +36,17 @@ Due to my background working with geographic information I feel more confortable
 
 ??? quote "Biomaterials interesting projects"
   - Materiom: https://materiom.org
-
+![WIP](../../images/WIP.png){width=400px}
 
 ### Reflection (Facts, feelings, findings and future)
 
-![WIP](../../images/WIP.png){width=400px}
+- To be more consistent with these experiments I have decided not to use plastics to create bioplastics. This has sometimes not been the best option because some of the bioplastic formulas stuck to the wood.
+
+- I must confess that although I still have a lot to learn about laser cutting, I feel comfortable working with it. Being used to working with 2D vector GIS or design programs has made it easier for me to do several tests without spending a lot of time creating the drawing files. On this occasion I have only worked with plywood, I would like to try other materials and techniques in the future. 
+
+
+
+
 
 ??? Note Delivery task 1
     - Reflection: The four F’s of active reviewing
