@@ -20,7 +20,7 @@ Tutorial:
 ??? quote "3D Map references"
   - Contour: https://contourmapcreator.urgr8.ch/
   - Maps 3D: https://maps3d.io/
-  
+  - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
   
 
 
