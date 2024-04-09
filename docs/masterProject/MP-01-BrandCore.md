@@ -19,7 +19,7 @@ I want to create bridges, artifacts, methodologies and tools so that people who 
 A better understanding of the world we live in, and especially of the other living beings or entities with which we share the planet. I think that knowledge and understanding will make us act with more respect and love.
 
 **Purpose statement:**
-To create bridges, artifacts, methodologies and tools open-source for the study of biodiversity and natural systems using new technologies., so that, we can democratize and make more affordable to researches and citizens to study biodiversity with less intrusive methodologies, with the aim of creating more knowledge, respect  and love for other non-human entities.
+To create bridges, artifacts, methodologies and tools open-source for the study of biodiversity and natural systems using new technologies, so that, we can democratize and make more affordable to researches and citizens to study biodiversity with less intrusive methodologies, with the aim of creating more knowledge, respect  and love for other non-human entities.
 
 
 ### Why?
