@@ -20,12 +20,10 @@ It has been pointed out to us that in our environment we are using quite technic
 
 ??? quote "References"
     - [How to explain anything to anyone](https://ideas.ted.com/how-to-explain-anything-to-anyone-4-steps-to-clearer-communication/)
-    - [The golden circle (What, how, why) by Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en) 
-    - [Designing an organization purpose statement with IDEO tool](https://www.ideo.com/journal/design-an-organizations-purpose-statement-with-this-tool)
-    - [The lucky iron fish project](https://www.youtube.com/watch?v=XoYUmexNhfI)
-    - [Transmedia storytelling](https://www.youtube.com/watch?v=5IFnSp2ilcQ)
+ 
 
 
 
 ## General reflexions:
-- Talking about the future is easy for people, the capacity for abstraction defines us as humans, it is in our DNA. I think that at MDEF we deal with topics that people like, most of us want a different future and to change the things that are not going well. In my opinion, we have the first obstacle to communication that would be the topic of conversation, we just have to be careful in using the language, tone, words or images appropriate to the listeners.
+
+- Talking about the future is easy for people, the capacity for abstraction defines us as humans, it is in our DNA. I think that at MDEF we deal with topics that people like, are interested in or concerned about because most of us want a different future and to change the things that are not going well. In my opinion, the focus of interest is already on our side and we just have to be careful in using the language, tone, words or images appropriate to the listeners.
