@@ -14,7 +14,9 @@ It has been pointed out to us that in our environment we are using quite technic
     3. Go for clarity over accuracy. Better to go with a simple explanation than a precise one.
     4. Explain why you think your subject is so cool. Explain what is exciting and generate curiosity.
 
-### Exercices:
+### Exercices
+
+We did some interesting exercises trying to create a text explaining the purpose of our project. The purpose began with a paragraph that we later reduced to a 16-word sentence and finally to an 8-word sentence. A good exercise to see which are the fundamental terms that best explain our project. Another of the exercises led us to use chatGPT to help us refine our purpose.
 
 
 
