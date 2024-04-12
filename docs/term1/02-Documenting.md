@@ -38,7 +38,7 @@ The main steps to start updating are:
         cd C:/MDEF/web
         ```
 
-    === "2. Check status "
+    === "2. Check status"
 
         ``` 
         Git status

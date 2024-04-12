@@ -1,19 +1,25 @@
 # **Digital Prototyping For Design: 2D Fabrication, Parametric Design, Biomaterials**
-
 ## Representing geographic information with laser cutter and biomaterials.
 Team members: Albert Vila
-![Maqueta](../../images/4setmanesdespres.JPG)
-![Maqueta](../../images/Maqueta.JPG)
+
+To put into practice the techniques of 2D fabrication and preparation of bio-materials, I have decided to create a 3D map model of the territory and try to add information to the model with bio-materials.
+
+![Maqueta](../../images/4setmanesdespres.JPG){width=400}
+![Maqueta](../../images/Maqueta.JPG){width=400}
 
 There are several sites where you can select a zone and create a 3D model of terrain. These site are very fast and useful if you feel ok with the information they provide to you. If you want to add more geographic information to the model you should use a geographic information software. Due to my background working with geographic information I feel more confortable controlling all the layers of information so I used QGIS for the first part of the process.
 
-
-
 Tutorial:
-1) Download Digital Elevations Model (DEM)
-2) Generate contours
-3) Clean and prepare in an vector design software
-4) Laser cut
+  - Download Digital Elevations Model (DEM)
+  - Generate contours > Export as a vector
+  - Clean and prepare in an vector design software
+  - Laser cut
+
+
+
+![Bio-materials composition](../../images/T2_DP4D_M1_BioMaterialsFormula.JPG)
+
+
 
 
 
@@ -22,18 +28,71 @@ Tutorial:
   - Maps 3D: https://maps3d.io/
   - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
   
+??? note "Biomaterials recipes"
 
+    === "01. Alginate"
+        ```
+        - Water                 200 ml
+        - Sodium alginate       4 g
+        - Glycerol              8 g
 
-???+ info "Biomaterials recipes"
-  - 01. Alginate
-  - 02. Gelatine
-  - 03. Agar agar
-  - 04. Gelatine foam
-  - 05. Biosilicone
-  - 06. Mix biosilicone with agar
+        Calcium chloride solution:
+        - Calcium chloride      10 g
+        - Water                 100 ml
+        ```
+
+    === "02. Gelatine"
     
+        ```
+        - Water                 240 ml
+        - Gelatine              48 g
+        - Glycerol:
+           - Rigid                0 g
+           - Normal               24 g
+           - Elastic              48 g
+        ```
+
+    === "03. Agar agar"
+    
+        ``` 
+        - Water                 300 ml
+        - Agar agar             10 g
+        - Glycerol:
+           - Rigid                4 g
+           - Normal               16 g
+           - Elastic              32 g
+        ```
+
+    ===  "04. Gelatine foam"
+    
+        ``` 
+        - Water                 150 ml
+        - Gelatine              12 g
+        - Glycerol              12 g
+        - Dish washing soap     1 spoon
+        ```
+
+    ===  "05. Biosilicone"
+    
+        ``` 
+        - Water                 200 ml
+        - Gelatine              48 g
+        - Glycerol              48 g
+        ```
+        
+    ===  "06. Mix biosilicone with agar"
+    
+        ``` 
+        - Water                 200 ml
+        - Gelatine              24 ml
+        - Agar agar             24 ml
+        - Glycerol              48 ml
+        ```
+
+
 
 ??? quote "Biomaterials interesting projects"
+  - What is a bio-material: https://fablabbcn.org/blog/emergent-ideas/biomaterials-101
   - Materiom: https://materiom.org
 
 
