@@ -23,14 +23,51 @@ Tutorial:
 
 
 
-??? quote "3D Map references"
-  - Contour: https://contourmapcreator.urgr8.ch/
-  - Maps 3D: https://maps3d.io/
-  - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
+???+ quote "References"
   
-??? note "Biomaterials recipes"
+    === "3D Mapping"
+        - Contour: https://contourmapcreator.urgr8.ch/
+        - Maps 3D: https://maps3d.io/
+        - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
 
-    === "01. Alginate"
+    === "Biomaterials"
+        - Bioplastic Cook Book: https://issuu.com/nat_arc/docs/bioplastic_cook_book_3
+        - What is a bio-material: https://fablabbcn.org/blog/emergent-ideas/biomaterials-101
+        - Materiom: https://materiom.org
+
+  
+  
+??? note "Biomaterial recipes used in this project"
+
+    === "Gelatine normal"
+        ```
+        - Water                 240 ml
+        - Gelatine              48 g
+        - Glycerol              24 g
+        ```
+
+    === "Biosilicone"
+        ```
+        - Water                 240 ml
+        - Gelatine              48 g
+        - Glycerol              48 g
+        ```
+
+    === "Agar agar normal"
+        ``` 
+        - Water                 300 ml
+        - Agar agar             10 g
+        - Glycerol              16 g
+        ```   
+    === "Mix agar-gelatine"
+        ``` 
+        - Water                 diluent       240 ml
+        - Gelatine powder       polymer       24 g
+        - Agar agar             polymer       10g          
+        - Glycerol                            24 ml
+        ```
+    === "Others recipes"
+        Alginate
         ```
         - Water                 200 ml
         - Sodium alginate       4 g
@@ -40,31 +77,7 @@ Tutorial:
         - Calcium chloride      10 g
         - Water                 100 ml
         ```
-
-    === "02. Gelatine"
-    
-        ```
-        - Water                 240 ml
-        - Gelatine              48 g
-        - Glycerol:
-           - Rigid                0 g
-           - Normal               24 g
-           - Elastic              48 g
-        ```
-
-    === "03. Agar agar"
-    
-        ``` 
-        - Water                 300 ml
-        - Agar agar             10 g
-        - Glycerol:
-           - Rigid                4 g
-           - Normal               16 g
-           - Elastic              32 g
-        ```
-
-    ===  "04. Gelatine foam"
-    
+        Gelatine foam
         ``` 
         - Water                 150 ml
         - Gelatine              12 g
@@ -72,31 +85,9 @@ Tutorial:
         - Dish washing soap     1 spoon
         ```
 
-    ===  "05. Biosilicone"
-    
-        ``` 
-        - Water                 200 ml
-        - Gelatine              48 g
-        - Glycerol              48 g
-        ```
-        
-    ===  "06. Mix biosilicone with agar"
-    
-        ``` 
-        - Water                 200 ml
-        - Gelatine              24 ml
-        - Agar agar             24 ml
-        - Glycerol              48 ml
-        ```
 
 
-
-??? quote "Biomaterials interesting projects"
-  - What is a bio-material: https://fablabbcn.org/blog/emergent-ideas/biomaterials-101
-  - Materiom: https://materiom.org
-
-
-### Reflection (Facts, feelings, findings and future)
+### Reflections (Facts, feelings, findings and future)
 
 - To be more consistent with these experiments I have decided not to use plastics to create bioplastics. This has sometimes not been the best option because some of the bioplastic formulas stuck to the wood. Sometimes following a cause can present certain drawbacks!
 
