@@ -26,27 +26,8 @@ There are several sites where you can select a zone and create a 3D model of ter
 
 ![Bio-materials composition](../../images/T2_DP4D_M1_BioMaterialsFormula.JPG)
 
-
-### Merging materials and techniques
-
-![Maqueta](../../images/4setmanesdespres.JPG){width=400}
-
-
-???+ quote "References"
   
-    === "3D Mapping"
-        - Contour: https://contourmapcreator.urgr8.ch/
-        - Maps 3D: https://maps3d.io/
-        - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
-
-    === "Biomaterials"
-        - Bioplastic Cook Book: https://issuu.com/nat_arc/docs/bioplastic_cook_book_3
-        - What is a bio-material: https://fablabbcn.org/blog/emergent-ideas/biomaterials-101
-        - Materiom: https://materiom.org
-
-  
-  
-??? note "Biomaterial recipes used in this project"
+???+ quote "Biomaterial recipes used in this project"
 
     === "Gelatine normal"
         ```
@@ -94,6 +75,29 @@ There are several sites where you can select a zone and create a 3D model of ter
         - Dish washing soap     1 spoon
         ```
 
+
+
+
+
+
+### Merging materials and techniques
+
+![Maqueta](../../images/4setmanesdespres.JPG){width=400}
+
+
+???+ quote "References"
+  
+    === "3D Mapping"
+        - Contour: https://contourmapcreator.urgr8.ch/
+        - Maps 3D: https://maps3d.io/
+        - Using QGIS and a laser cutter to make 3D contour models: https://www.youtube.com/watch?v=Nj4QwNk0BQI
+
+    === "Biomaterials"
+        - Bioplastic Cook Book: https://issuu.com/nat_arc/docs/bioplastic_cook_book_3
+        - What is a bio-material: https://fablabbcn.org/blog/emergent-ideas/biomaterials-101
+        - Materiom: https://materiom.org
+
+  
 
 
 ### Reflections (Facts, feelings, findings and future)
