@@ -4,23 +4,32 @@ Team members: Albert Vila
 
 To put into practice the techniques of 2D fabrication and preparation of bio-materials, I have decided to create a 3D map model of the territory and try to add information to the model with bio-materials.
 
-![Maqueta](../../images/4setmanesdespres.JPG){width=400}
-![Maqueta](../../images/Maqueta.JPG){width=400}
+### Creating the 3D Map 
 
-There are several sites where you can select a zone and create a 3D model of terrain. These site are very fast and useful if you feel ok with the information they provide to you. If you want to add more geographic information to the model you should use a geographic information software. Due to my background working with geographic information I feel more confortable controlling all the layers of information so I used QGIS for the first part of the process.
+![Maqueta](../../images/T2_DP4D_3DMap.JPG)
 
-Tutorial:
-  - Download Digital Elevations Model (DEM)
-  - Generate contours > Export as a vector
-  - Clean and prepare in an vector design software
-  - Laser cut
+There are several sites where you can select a zone and create a 3D model of terrain. These site are very fast and useful if you feel ok with the information they provide to you. If you want to add more geographic information to the model you should use a geographic information software. Due to my background working with geographic information I feel more confortable controlling all the layers of data so I used QGIS for the first steps of preparing the file for laser cutting.
 
+???+ quote "3D Map steps"
+    1. Download a Digital Elevations Model (DEM) of desired area. [Global DEM Data Sources](https://gisgeography.com/free-global-dem-data-sources/)
+    2. Make a clip with the mask of our work area to adjust the output
+    3. Create the contour lines. The final output scale of the 3D map and the thickness of the material must be taken into account to control the height factor. With values ​​between 1.5 and 2.5 of exaggeration with respect to the planimetry, it usually looks good. 
+    4. Export as a vector
+    5. Clean and prepare in an vector design software (For example, Inkscape)
+        ![File preparations](../../images/T2_DP4D_FilePreparation.JPG)
+    6. Export and send to the Laser Machine software and cut. Laser parameters for 4,5 mm thickness plywood are Power=5 and Speed=1.5
+        ![Maqueta](../../images/T2_DP4D_LaserCutting.gif)
+    7. Assemble following the marked lines and glue the plywood pieces.
+        ![Maqueta](../../images/Maqueta.JPG){width=400}
 
+### Preparing biomaterial recipes
 
 ![Bio-materials composition](../../images/T2_DP4D_M1_BioMaterialsFormula.JPG)
 
 
+### Merging materials and techniques
 
+![Maqueta](../../images/4setmanesdespres.JPG){width=400}
 
 
 ???+ quote "References"
