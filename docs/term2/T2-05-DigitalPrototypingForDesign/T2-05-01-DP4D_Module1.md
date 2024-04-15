@@ -24,6 +24,9 @@ There are several sites where you can select a zone and create a 3D model of ter
 
 ### Preparing biomaterial recipes
 
+![Instruments and ingredients](../../images/T2_DP4D_ingredientsandinstruments.JPG)
+
+Bio-materials composition:
 ![Bio-materials composition](../../images/T2_DP4D_M1_BioMaterialsFormula.JPG)
 
   
