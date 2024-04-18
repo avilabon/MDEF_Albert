@@ -92,7 +92,7 @@ Bio-materials composition:
 
 | Gelatine normal spirulina | Mix agar-gelatine spirulina | Mix agar-gelatine active carbon |
 | --- | --- | --- |
-| ![Gelatine with spirulina](../../images/T2_DP4D_GelatineWithSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineActiveCarbon.JPG){Width=200} |
+| ![Gelatine with spirulina](../../images/T2_DP4D_GelatineWithSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineActiveCarbon.JPG){Width=400} |
 | Not mixed with and electric mixer and removed too soon out of the mold | Mixed with electric mixer. It cracked when taken out of the mold | Very flexible and resistant, the best of three|
 
 #### Agar-agar normal with predissolved pigments
