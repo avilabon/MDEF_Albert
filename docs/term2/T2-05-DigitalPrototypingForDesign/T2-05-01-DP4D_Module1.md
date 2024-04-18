@@ -1,4 +1,5 @@
 # **Digital Prototyping For Design: 2D Fabrication, Parametric Design, Biomaterials**
+
 ## Representing geographic information with laser cutter and biomaterials.
 Team members: Albert Vila
 
@@ -8,19 +9,26 @@ To put into practice the techniques of 2D fabrication and preparation of bio-mat
 
 ![Maqueta](../../images/T2_DP4D_3DMap.JPG)
 
-There are several sites where you can select a zone and create a 3D model of terrain. These site are very fast and useful if you feel ok with the information they provide to you. If you want to add more geographic information to the model you should use a geographic information software. Due to my background working with geographic information I feel more confortable controlling all the layers of data so I used QGIS for the first steps of preparing the file for laser cutting.
+There are several sites where you can select a zone and create a 3D model of terrain. These sites are very fast and useful if you feel ok with the information they provide to you. If you want to add more geographic information to the model you should use a geographic information software. Due to my background working with geographic information I feel more confortable controlling all the layers of data so I used QGIS for the first steps of preparing the file for laser cutting.
 
 ???+ quote "3D Map steps"
     1. Download a Digital Elevations Model (DEM) of desired area. [Global DEM Data Sources](https://gisgeography.com/free-global-dem-data-sources/)
     2. Make a clip with the mask of our work area to adjust the output
-    3. Create the contour lines. The final output scale of the 3D map and the thickness of the material must be taken into account to control the height factor. With values ​​between 1.5 and 2.5 of exaggeration with respect to the planimetry, it usually looks good. 
-    4. Export as a vector
-    5. Clean and prepare in an vector design software (For example, Inkscape)
+    3. Create the contour lines. The final output scale of the 3D map and the thickness of the material must be taken into account to control the height factor. With values ​​between 1.5 and 2.5 of exaggeration with respect to the planimetry, it usually looks good.
+    4. Add more information as toponyms or elevations.
+    5. Export as a vector
+    6. Clean and prepare in an vector design software (For example Inkscape or Illustrator)
         ![File preparations](../../images/T2_DP4D_FilePreparation.JPG)
-    6. Export and send to the Laser Machine software and cut. Laser parameters for 4,5 mm thickness plywood are Power=5 and Speed=1.5
+        [Download file](../../files/3DMap_layout_ready4laser.ai)
+    7. Export and send to the Laser Machine software and cut. After some tests, the laser parameters used for 4,5 mm thickness plywood were: 6.00 of power with 1.5 to mark and 55 of power with 1.5 of speed to cut.
         ![Maqueta](../../images/T2_DP4D_LaserCutting.gif)
-    7. Assemble following the marked lines and glue the plywood pieces.
+    8. Assemble following the marked lines and glue the plywood pieces.
         ![Maqueta](../../images/Maqueta.JPG){width=400}
+
+We also cut a map of the same area with the municipal boundaries, we made the boundary lines thicker to be able to use it as a mold for the bio-materials.
+![Municipal boundaries](../../images/T2_DP4D_MunicipalitiesMap.JPG)
+
+
 
 ### Preparing biomaterial recipes
 
@@ -78,14 +86,23 @@ Bio-materials composition:
         - Dish washing soap     1 spoon
         ```
 
-
-
-
-
-
 ### Merging materials and techniques
 
-![Maqueta](../../images/4setmanesdespres.JPG){width=400}
+#### First tests
+
+| Gelatine normal spirulina | Mix agar-gelatine spirulina | Mix agar-gelatine active carbon |
+| --- | --- | --- |
+| ![Gelatine with spirulina](../../images/T2_DP4D_GelatineWithSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineSpirulina.JPG){Width=200} | ![Mix gelatine-agar with spirulina](../../images/T2_DP4D_AgarGelatineActiveCarbon.JPG){Width=200} |
+| Not mixed with and electric mixer and removed too soon out of the mold | Mixed with electric mixer. It cracked when taken out of the mold | Very flexible and resistant, the best of three|
+
+#### Agar-agar normal with predissolved pigments
+
+![Municipalities](../../images//T2_DP4D_MunicipalitiesMapBioMat.JPG)
+
+Reduction in size due to drying shrinkage
+![Reduction](../../images/T2_DP4D_Drying.JPG)
+
+#### 
 
 
 ???+ quote "References"
@@ -113,16 +130,7 @@ Bio-materials composition:
 
 - Regarding biomaterials, the size reduction as the materials dry is something difficult to control but must be taken into account.
 
-
-??? Note Delivery task 1
-    - Reflection: The four F’s of active reviewing
-         - Facts: An objective account of what happened
-         - Feelings: The emotional reactions to the situation
-         - Findings: The concrete learning that you can take away from the situation
-         - Future: Structuring your learning such that you can use it in the future
-    - Pictures
-    - References
-    - Fabrication files
+- It is an advantage and saving of material to be able to recover it and melt it again to create new shapes.
 
 
 
