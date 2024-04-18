@@ -7,9 +7,10 @@
 
 Helen Torres guides us on a conceptual walk through Donna Haraway's terminology. Helen's knowledge of Donna's works and concepts is broad and very deep. Helen has been the translator of some of her recent writings. This extensive knowledge is noticeable in the way she recreates the meanings and nuances of each concept that she introduces to us.
 
+
 ### The exercice: 
 
-To carry out the exercise we start from a real conflict of interests around a project to expand a museum in the city of Barcelona to, after identifying the actors, give a voice to each of them, practicing active and respectful listening to discover, among all, possible solutions that appear during the process.
+To carry out the exercise we start from a real conflict of interests around a project to expand a museum in the city of Barcelona. After identifying the actors, we gave a voice to each of them, practicing active and respectful listening to discover, together, the possible solutions that appeared during the process.
 
 I participated representing the group of boys and girls in the neighborhood. These were the arguments shared at the dialogue table: 
 
