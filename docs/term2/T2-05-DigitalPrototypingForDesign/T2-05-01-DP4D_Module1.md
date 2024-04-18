@@ -103,8 +103,9 @@ Reduction in size due to drying shrinkage
 ![Reduction](../../images/T2_DP4D_Drying.JPG)
 
 #### Transferring the relief of the 3D model to a piece of biosilicone
+![Biosilicone](../../images/T2_DP4D_BioSilicone.JPG)
 
-To do this transfer it was necessary to apply heat with a hair dryer to mold it
+To do this transfer it was necessary to apply heat with a hair dryer to melt it a little and mold it.
 ![Transfering](../../images/T2_DP4D_GeoBioSilicon.JPG)
 
 ![Transfering gif](../../images/T2_DP4D_GeoBioSilicone-2.gif){width=100%}
