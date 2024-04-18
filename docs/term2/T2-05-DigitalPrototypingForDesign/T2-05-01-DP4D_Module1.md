@@ -5,7 +5,7 @@ Team members: Albert Vila
 
 To put into practice the techniques of 2D fabrication and preparation of bio-materials, I have decided to create a 3D map model of the territory and try to add information to the model with bio-materials.
 
-### Creating the 3D Map 
+### Creating the 3D Map and other plywood molds
 
 ![Maqueta](../../images/T2_DP4D_3DMap.JPG)
 
@@ -86,7 +86,7 @@ Bio-materials composition:
         - Dish washing soap     1 spoon
         ```
 
-### Merging materials and techniques
+### Transfering geographic information to the Biomaterials
 
 #### First tests
 
@@ -102,7 +102,12 @@ Bio-materials composition:
 Reduction in size due to drying shrinkage
 ![Reduction](../../images/T2_DP4D_Drying.JPG)
 
-#### 
+#### Transferring the relief of the 3D model to a piece of biosilicone
+
+To do this transfer it was necessary to apply heat with a hair dryer to mold it
+![Transfering](../../images/T2_DP4D_GeoBioSilicon.JPG)
+
+![Transfering gif](../../images/T2_DP4D_GeoBioSilicone-2.gif){width=100%}
 
 
 ???+ quote "References"
