@@ -30,9 +30,12 @@ Other actors of the process were the politicians, the museum directors, the arch
 ???+ quote "References"
     - [Helen Torres CCCB Sheet](https://www.cccb.org/en/participants/file/helen-torres/228022)
     - [Staying with the trouble: conversation between Donna Haraway and Helen Torres](https://districtecultural.l-h.cat/)
+    - Microcosmos, Lynn Margulis and Dorion Sagan
  
 
 ### Reflections
+
+- We can affirm with complete certainty that the "I" does not exist, we are all part of some holobiont. Shouldn't we then act accordingly?
 
 - Regarding the exercice, when we add more actors to conflicts and combine them, open up without confronting, more inclusive and symbiotic solutions appear. Embrace unexpected collaborations as a way to find solutions that are more holistic or that can potentially benefit more actors.
 
