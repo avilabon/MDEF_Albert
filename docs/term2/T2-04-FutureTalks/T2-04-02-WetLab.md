@@ -1,4 +1,4 @@
-# **Fair Futures**
+# **Future Talks**
 
 ## Networks of Co-Responsability. Hangar's WebLab
 ***By Ce Quimera and Laura Benitez***

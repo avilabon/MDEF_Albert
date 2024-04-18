@@ -1,4 +1,4 @@
-# **Fair Futures**
+# **Future Talks**
 
 ## Radical Situatedness. Flows, Knowledge and Infrastructures.
 ***By Bani Brusadin***

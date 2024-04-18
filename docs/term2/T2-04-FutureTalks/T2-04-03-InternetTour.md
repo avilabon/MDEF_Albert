@@ -1,4 +1,4 @@
-# **Fair Futures**
+# **Future Talks**
 ## Internet tour (Mario Santamaria)
 ***By Mario Santamaria***
 
