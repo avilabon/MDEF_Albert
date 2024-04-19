@@ -7,18 +7,17 @@ I have taken advantage of the module to 3D print some boxes that I intend to use
 
 To do this, I have adapted rugged case models to the measurements I need.
 
-I have basically used PLA but I have also made a box with ABS.
+![Printing boxes](../../images/T2_DP4D_3DRuggedCase.JPG)
+[Download the original model created by Thingiverse user ProgressTH](../../files/Water%20Resistant%20Case%20V2%20-%204555276.zip)
 
-It will be very important that these boxes are waterproof and weather resistant. To do this, you will have to close them using a type of O-ring.
+I have basically used PLA but I have also made a box with ABS. It will be very important that these boxes are waterproof and weather resistant. To do this, you will have to close them using a type of O-ring. At this time, two samples of these materials (PLA, ABS) have been left outside to compare their durability and degradation.
 
-At this time, two samples of these materials (PLA, ABS) have been left outside to compare their durability and degradation.
+![Printing boxes 2](../../images/T2_DP4D_3DRuggedCase2.JPG)
+[Download the original model created by Thingiverse user zx82net](../../files/customizable-rugged-waterproof-box20190121-2900-190m3e9.zip)
 
+If making mistakes many times is the way to learn, maybe I have learned something. My attempts at printing objects make a good glossary of mistakes.
 
-![WIP](../../images/WIP.png){Width=400}
-
-
-
-
+![Overhanged piece with out a support and thin connection](../../images/T2_DP4D_OverhangedPiece.gif)
 
 
 ## Mycelium as an insulating material (bio-grow materials)
@@ -48,8 +47,9 @@ After 5 hours outside without direct sunlight, it is observed that the temperatu
     5. Myco-culture: https://fabricademy.fabcloud.io/shemakes/handbook/1.-learning-paths/discovery-path/WORKSHOPS/Biofabrication/Mycelium%20Biocomposites/
 
 
-## Reflections:
+## Reflections
 
 - We have seen many techniques during this module, I feel that I have lacked time to experiment with many of them.
+- If making mistakes many times is the way to learn, maybe I have learned something. My attempts at printing objects make a good glossary of mistakes.
 - Regarding the mycelium as insulation material, in the absence of many more experiments and formulations and evaluations on the scalability of the product, the experiment encourages us to think that mycelium can be a local solution to replace certain insulation materials with a greater ecological footprint.
 - Speculating on the subject, I think that if we find a way to sterilize and inject material inoculated with fungi into the gaps and chambers of thermally inefficient buildings and, then find a way to stop the growth of the mycelium, perhaps we could create an insulation injected that is distributed more homogeneously within these spaces.
