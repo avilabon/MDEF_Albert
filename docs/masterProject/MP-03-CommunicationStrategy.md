@@ -9,3 +9,7 @@ I have tried to be as specific as possible and not add many generic actors, but 
 ## Communication matrix
 
 ![Communication matrix](../images/MP_CommunicationMatrix.JPG)
+
+## Project positioning
+
+![Project positioning](../images/T3-01-ProjectPositioning.JPG)
