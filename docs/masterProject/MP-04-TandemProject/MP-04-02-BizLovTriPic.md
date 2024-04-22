@@ -28,12 +28,26 @@ The last step is to offer back the shared vision to the original cell, in order 
 
 
 ## Pictorial 1 [Albert's project draft pictorial]
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaFr4dV20LRlSXwdKME7Zhf_3ybIiNLH9Q64-jN7NeXQ3QuXn6SOHnsfS0ZFVKwI6X1WipqK6o5wjX/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"> </iframe>
-!!! note ""
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaFr4dV20LRlSXwdKME7Zhf_3ybIiNLH9Q64-jN7NeXQ3QuXn6SOHnsfS0ZFVKwI6X1WipqK6o5wjX/embed?start=false&loop=false&delayms=3000" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+</iframe>
+
 
 ## Pictorial 2 [Nico's project draft pictorial]
- In reviewing process
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtSXBDAjhlXc8iOCmZjZY_H5mt6C8EpJEpZI1WBKo2H7cQZGSkhF_tvcwzv0p9oEMMl9IuaVvy-XtO/embed?start=false&loop=false&delayms=3000" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+</iframe>
 
 ## Pictorial 3  [Ever's project draft pictorial]
  In reviewing process
