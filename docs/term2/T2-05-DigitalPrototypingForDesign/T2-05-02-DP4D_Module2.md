@@ -25,7 +25,9 @@ According to Eurostat, in 2021, households represented 27% of final energy consu
 
 ![Energy consumption in EU households](../../images/T2_EnergyComsumtion_SE_article_Households_2021.png)
 
-The main insulators currently used are: Fiberglass, Mineral wool (rock and slag wool), Cellulose, Natural fibers  (cotton, sheep's wool, straw, hemp), Polystyrene, Polyisocyanurate, Polyurethane, Perlite, Cementitious foam, Phenolic foam, Insulation facings.
+The main insulators currently used are: Fiberglass, Mineral wool (rock and slag wool), Cellulose, Natural fibers  (cotton, sheep's wool, straw, hemp), Polystyrene, Polyisocyanurate, Polyurethane, Perlite, Cementitious foam, Phenolic foam, Insulation facings. Better insulation of homes can greatly reduce this consumption. For this reason we wanted to test the insulating capacity of mycelium composites.Better insulation of homes can greatly reduce this consumption.
+
+The experiment carried out at home consisted of placing 3 temperature dataloggers in the environment for a few hours, starting with the same temperature for all three. One of them has been covered with 10 mm thick plywood, the other has been covered with the mycelium and straw panel 9 mm thick and the third has been left uncovered as a control.
 
 With this simple experiment I explored the potential of mycelium (Ganoderma sp.) with straw as a thermal insulator.
 
