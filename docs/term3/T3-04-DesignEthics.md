@@ -14,7 +14,11 @@ This short and intense seminar, given by Ariel Guersenzvaig has introduced us to
 
     -  The different types of relationships (embodiment, hermeneutics, alterity or background, cyborg) with technology that humans can have are very interesting, in my opinion.
 
-We have talked about some very interesting concepts about technology and our relationship with it. One that has caught my attention is the **multistability** component of the technology. I have always been fascinated by the use of objects for purposes other than the initial design objectives. These unpredictable effects are incredible. In my area of expertise, which is the study and conservation of nature, we are using technologies designed for military, hunting and surveillance purposes. I am referring to elements such as binoculars, night scopes, tracking devices, trapping cameras, thermal cameras... 
+    - The Jevon's paradox refers to the situation in which technical progress leads to an increase in the efficiency with which a factor of production is used, reducing the quantity required of it, but the fall in the prices of that factor promotes its demand, therefore that increases rather than decreases. This would be the case of carbon in the industrial revolution or the improvement of energy efficiency (Wikipedia).
+
+    - Other aspects that we discussed were how design is normative, the idea of "nudge" and the forms of influence in design such as persuasive, coercive, seductive and decisive.
+
+We have talked about some very interesting concepts about technology and our relationship with it. One that has caught my attention is the **multistability** component of the technology. I have always been fascinated by the use of objects for purposes other than the initial design objectives. These unpredictable effects are incredible. In my area of expertise, which is the study and conservation of nature, we are using technologies designed for military, hunting and surveillance purposes. I am referring to elements such as binoculars, night scopes, tracking devices, trapping cameras, thermal cameras... If we stick strictly to the typical examples of multistability of technology, this case that I propose would seem to not be entirely a case of multistability since the function of these tools does not change. That is to say, optics for seeing up close or at night perform the same function in military use as in use for study and conservation of nature. In this case, I see the multistable component more in the change of market or target user at the time of development.
 
 ![Multistability](../images/T3-DS-Multistability.JPG)
 
@@ -32,3 +36,4 @@ On the one hand, I am attracted to the idea of thinking that we can transform th
     - Donna Haraway
     - Nassim Parvin
     - Bruno Latour
+    - Design for Socially Responsible Behavior: A Classification of Influence Based on Intended User Experience.Nynke Tromp, Paul Hekkert and Peter-Paul Verbeek
