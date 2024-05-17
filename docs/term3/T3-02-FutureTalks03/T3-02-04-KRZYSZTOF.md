@@ -31,4 +31,4 @@ After MDEF his profile becomes more hybrid. He is now in a kind of intersection 
 
 - I take with me his vision of transitions, his relaxed and joyful tone at the same time, his doubts and honesty.
 
-- One of the things that interested me the most was how it developed after the MDEF with a more marked hybrid profile.
+- One of the things that interested me the most was how it developed after the MDEF with a more hybrid profile.
