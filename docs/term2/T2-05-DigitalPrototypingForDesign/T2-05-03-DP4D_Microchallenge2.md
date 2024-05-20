@@ -34,7 +34,7 @@ We have done in one day what took us 4 days in the previous microchallenge, whic
 
 **The importance of the team:**
 
-Al continuar trabajando con el mismo equipo, nos ha permitido conocer mejor la manera de trabajar y las habilidades de cada miembro del equipo nos ha permitido segregar algunos de los trabajos para poder acabar dentro de las fechas límite.
+By continuing to work with the same team, it has allowed us to better understand the way of working and the skills of each team member and has allowed us to segregate some of the work so that we can finish within the deadlines.
 
 Being understanding and having fun working with colleagues is essential to cope well under the pressure of deadlines.
 
