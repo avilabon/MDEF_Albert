@@ -1,5 +1,7 @@
 # **Digital Prototyping For Design: Microchallenge 3 - Planta Vibras - Individual post**
 
+![Planta Vibras](../../images/T3_MC3_PlantasVibraExperience.JPG)
+
 ## Microchallenge 3: Report and repository
 
 https://github.com/AnthuanetF/Micro-Challenge-MDEF24/blob/main/Microchallenge3.md
