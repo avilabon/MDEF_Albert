@@ -19,3 +19,6 @@
 ### Poster
 
 ![Design dialogs 2 poster](../images/MP_poster1.jpg)
+
+
+Follow us on [@OSBioMoSys](https://www.instagram.com/osbiomosys/)

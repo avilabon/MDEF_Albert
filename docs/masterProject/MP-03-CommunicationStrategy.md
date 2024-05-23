@@ -13,3 +13,6 @@ I have tried to be as specific as possible and not add many generic actors, but 
 ## Project positioning
 
 ![Project positioning](../images/T3-01-ProjectPositioning.JPG)
+
+
+Follow us on [@OSBioMoSys](https://www.instagram.com/osbiomosys/)
