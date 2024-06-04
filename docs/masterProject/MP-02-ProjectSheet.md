@@ -1,10 +1,9 @@
-# **Project Sheet**
+# ** OSBioMoSys Projects**
 
-### Project title
-**An open-source camera trap module to study small animals**
+## An open-source camera trap module to study small animals
 
 
-### Values, principles and specifictions
+### Values, principles and specifictions of the project
 
 ![Project values, principles and spec](../images/MP_ProjectValuesPrincipleSpecs.jpg)
 

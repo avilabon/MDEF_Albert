@@ -1,4 +1,4 @@
-# **OSBioMoSys - Brand Core**
+# **About OSBioMoSys**
 
 ![OSBioMoSys logo](../images/OSBioMoSys_logo.JPG){width=200}
 
@@ -6,8 +6,16 @@ OSBioMoSys is the acronym for Open-Source Biodiversity Monitoring Systems.
 
 The similarity of the name with osmosis is not coincidental since the project aims to act as a balancing membrane between biodiversity and technology. It is a bidirectional membrane that transports knowledge, methods and techniques from one side to the other.
 
-[@OSBioMoSys](https://www.instagram.com/osbiomosys/)
+<iframe src="https://www.youtube.com/embed/XlEa1QELAEI?si=GPFh1ZRmM6RqFc9U" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+</iframe>
 
+[@OSBioMoSys](https://www.instagram.com/osbiomosys/)
 
 ### Brand motto
 Designing open-source customizable solutions for the study and conservation of biodiversity
