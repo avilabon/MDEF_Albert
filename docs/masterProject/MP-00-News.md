@@ -1,5 +1,17 @@
 # **OSBioMoSys - Latest news**
 
+### Deconstructing a camera trail
+
+<iframe src="https://www.youtube.com/embed/Bn4BHyr0K_U?si=WTkQIoIbWOFq3Q-m" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+</iframe>
+
+
 ### New presentation video
 
 <iframe src="https://www.youtube.com/embed/XlEa1QELAEI?si=GPFh1ZRmM6RqFc9U" 
