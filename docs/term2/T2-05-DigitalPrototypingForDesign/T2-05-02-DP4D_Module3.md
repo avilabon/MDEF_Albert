@@ -16,7 +16,7 @@
 
 **Why?**
 
-The necessity of elements to improve the selective collection of waste and the storage of reusable materials of the class it is an undeniable reality 
+The necessity of elements to improve the selective collection of waste and the storage of reusable materials of the class it is an undeniable reality.
 
 ![What do you thing?](../../images/T2_DP4D_M3_Necessity.PNG)
 
@@ -24,7 +24,7 @@ After sharing ideas and finding inspiration, we created the first model with Rhi
 
 ### Adapting the first design to the machine
 
-Once the first design has been created, the sheet must be adapted to the physical and working characteristics of the machine and the material we will use. At this point in the process, it is necessary to redraw well the joints of the wooden pieces, redraw the corners, adapt and order the layers according to the size of the cutting bits that we will use at each moment, prepare a first layer to fix the board.
+Adapting our design to the physical and working characteristics of the machine and material was our next step. At this point in the process, we redrew the joints of the wooden pieces well, we redrew the corners, we adapted and ordered the layers according to the size of the cutting bits to be used at each moment, and we prepared a first layer to screw the board to the machine.
 
 ![RhinoCAM preparation](../../images/T2_DP4D_M3_RhinoCAM.PNG)
 
