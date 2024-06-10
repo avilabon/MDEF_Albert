@@ -1,8 +1,8 @@
-# **Digital Prototyping For Design: Prototyping for interaction**
+# **Digital Prototyping For Design: Prototyping for interaction and extended bodies
 
-![Citlali Hernandez presentation](../../images/T3_DP4D_M4_presentation.PNG){width=300px}
+![Presentation](../../images/T3_DP4D_M4_presentation.PNG)
 
-In this seminar we had the opportunity to test different open source tools such as Wekinator (real-time machine learning), code tools such as Processing or real-time communication protocols as OSC.
+In this seminars we had the opportunity to test different open source tools such as Wekinator (real-time machine learning), code tools such as Processing or real-time communication protocols as OSC. Also some commercial tools as Max8. The objective was to provide ourselves with tools to create interactions from body data.  
 
 ![Face tracker](../../images/T3_DP4D_Mod4_FaceTracker.png)
 
@@ -111,15 +111,24 @@ With conductive and semiconductive fabrics we build a sensor for the finger. Aft
         //
         ```
 
+In the module 5 we used the same wearable soft sensor and the circuit of module 4 and we tryed to convert the inputs into a more or less artistic output.
+
+In this case we play with the pressure on the sensor as a symptom of stress and we try to achieve an inversely proportional output. For example, for high values ​​of the sensor, that is, high stress levels, a decrease in the speed and volume of the music was caused and for low values, that is, low pressure or low stress, it caused a sound output at speeds. and higher volumes to activate.
+
+??? note 
+    No code or fabrication files are included because the final result wasn't very achieved.
+
 ### Reflections
 
-- Short and productive seminar, in my opinion, very interesting and that provides us with more resources for our future projects.
+- Short and productive seminars, in my opinion, very interesting and that provides us with more resources for our future projects.
 
-- Building the diy sensor ourselves increased our understanding of how it works.
+- Building the diy sensor ourselves increased our understanding of how it works and enables us for future more complex soft sensor designs.
 
-- I really liked the possibility of working on these topics exclusively with open source softwares. I feel like I need a little more time to play with these softwares. I hope to have the possibility in future projects.
+- I really liked the possibility of working on these topics exclusively with open source software. Although with these softwares you can build simple things relatively quickly, there are so many options that I need more practice time to get comfortable.
 
-- I really want to continue experimenting with topics of interaction, processing and representation. I see that they open up a lot of very interesting possibilities from an artistic point of view but also from a product design point of view.
+- Despite Max 8 is commercial, it is also very interesting and powerful as it offers a wide range of capabilities.
+
+- I really want to continue experimenting with topics of interaction, processing and representation. I see that they open up a lot of very interesting possibilities from an artistic point of view but also from a product design point of view. I feel that these modules have been just a small bite an attractive and interesting topic, **interaction**.
 
 
 ???+ quote "Tools and references"
@@ -127,4 +136,5 @@ With conductive and semiconductive fabrics we build a sensor for the finger. Aft
     - [**Processing** is an open source programming language and development environment designed to facilitate the creation of graphics, animations and interactions, especially used in digital art, graphic design and educational projects.](https://processing.org/)
     - [Turbulente repository](https://github.com/TURBULENTE/prototypingInteractions)
     - [Atlas of emotions](https://atlasofemotions.org/)
+    - **Max 8** is a visual programming language and environment for creating interactive multimedia applications, particularly in music and sound art.
 
