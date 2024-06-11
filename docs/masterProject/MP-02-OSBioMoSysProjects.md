@@ -1,4 +1,4 @@
-# ** OSBioMoSys Projects**
+# **OSBioMoSys Projects**
 
 ## An open-source camera trap module to study small animals
 
