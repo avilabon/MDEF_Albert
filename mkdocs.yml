@@ -72,8 +72,8 @@ nav:
 
   - OSBioMoSys:
       - News: masterProject/MP-00-News.md
-      - About OSBioMoSys: masterProject/MP-01-BrandCore.md
-      - Projects: masterProject/MP-02-ProjectSheet.md
+      - About OSBioMoSys: masterProject/MP-01-AboutOSBioMoSys.md
+      - Projects: masterProject/MP-02-OSBioMoSysProjects.md
       - Communication strategy: masterProject/MP-03-CommunicationStrategy.md
       - Tandem project: 
         - Tandem project 1: term2/T2-03-CommunicatingIdeas/T2-03-02-CI_Tandem.md

@@ -17,10 +17,9 @@ webkitallowfullscreen="true">
 
 [@OSBioMoSys](https://www.instagram.com/osbiomosys/)
 
-### Brand motto
+### Our mottos
 Designing open-source customizable solutions for the study and conservation of biodiversity
 
-### Short motto 
 Designing for biodiversity
 
 
@@ -45,7 +44,7 @@ To create bridges, artifacts, methodologies and tools open-source for the study 
 
 
 
-### Brand vision over time
+### OSBioMoSys vision over time
 
 | Now | 5 years | 10 years | 15 years |
 | -------- | -------- | -------- | -------- |
@@ -53,7 +52,7 @@ To create bridges, artifacts, methodologies and tools open-source for the study 
 
 
 
-### Brand personality (archetypes)
+### Our personality (archetypes)
 
 ![Brand archetypes](../images/MP_Archetypes.jpg)
 

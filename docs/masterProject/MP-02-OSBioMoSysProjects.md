@@ -33,7 +33,7 @@ I appeal to the softwired nature of human biology and psychology. That is to say
 
 ![Working with communities](../images/MP_communities.PNG)
 
-#### Step 2: Understanding commertial trail cameras
+#### Step 2: Understanding commercial trail cameras
 
 <iframe src="https://www.youtube.com/embed/Bn4BHyr0K_U?si=WTkQIoIbWOFq3Q-m" 
 frameborder="0"
