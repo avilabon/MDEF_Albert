@@ -18,9 +18,10 @@ webkitallowfullscreen="true">
 [@OSBioMoSys](https://www.instagram.com/osbiomosys/)
 
 ### Our mottos
-Designing open-source customizable solutions for the study and conservation of biodiversity
 
-Designing for biodiversity
+**Designing open-source customizable solutions for the study and conservation of biodiversity**
+
+**Designing for biodiversity**
 
 
 ### Mission, vision and values
