@@ -19,10 +19,9 @@
 ![Stakeholders so far](../images/MP_Stackholders_sofar.PNG)
 
 
-
 ### Steps
 
-#### Step 1: Engage communities with my project and involve myself with communities.
+#### Engage communities with my project and involve myself with communities.
 
 Much of any intervention is about getting involved. Get involved in both senses, involve others and get involved yourself. That is, until the barriers between oneself and others become so blurred that we do not know where one ends and the others begin. Also about, getting out of my bubble and understand that I am not alone in the world with my ideas. Break the ice. It is important to lose the ridiculous fear of sharing, no one is going to steal or copy our idea and lose the fear of ridicule, no one is going to laugh at our idea.
 
@@ -37,8 +36,7 @@ I appeal to the softwired nature of human biology and psychology. That is to say
 During the course of this project, many people have been spoken to. Starting with the thematic reviews and pediatric reviews of the master's degree itself, to meetings with the working group and thematic workshops with researchers and coordinators of citizen science programs. [See acknowledgments section.](../masterProject/MP-05-PeopleAcknowledgments.md) 
 
 
-
-#### Step 2: Understanding commercial trail cameras
+#### Understanding commercial trail cameras an other commercial devices
 
 <iframe src="https://www.youtube.com/embed/Bn4BHyr0K_U?si=WTkQIoIbWOFq3Q-m" 
 frameborder="0"
@@ -50,7 +48,26 @@ webkitallowfullscreen="true">
 </iframe>
 
 
-#### Step 3: Testing components
+#### Testing components
+
+**The lens**
+
+To study small animals you need a lens that focuses at a short distance. Of all the commercial trail camera models, we have only found one model launched very recently capable of focusing at a distance of 15 cm, designed for small mammals. The only drawback is that its price exceeds $650.
+
+3 lenses were analyzed. Two different 2MP OV2640s, one with a 50 degree aperture (included with the Xiao ESP32S3 sense) and the other with a 120 degree aperture. A higher gamma model also supported by the Xiao ESP32S3 sense was also analyzed, which was OV5640 5MP 50 degree with autofocus but with a higher price.
+
+![Testing camera 0](../images/MP_TestingCameras0.PNG){width=500}
+
+To compare the results and at the same time determine the parameters of focus, depth of field, aperture and deformity, a template was created. The template moved progressively further away from the lens, taking photos at a certain distance.
+
+![Testing camera 1](../images/MP_TestingCameras.PNG){width=500}
+
+[Download the template](../files/CameraTesterTemplate.pdf)
+
+![Lens test](../images/MP_CameraTest_template.PNG){width=500}
+
+The results:
+![Testing camera results](../images/MP_TestingCamerasResults.PNG)
 
 
 
