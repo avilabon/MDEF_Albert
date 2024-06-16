@@ -12,7 +12,12 @@
 
 ### Stakeholders
 
+#### Possible
 ![Stakeholders](../images/MP_possibleStakeholders.jpg)
+
+#### So far
+![Stakeholders so far](../images/MP_Stackholders_sofar.PNG)
+
 
 
 ### Steps
