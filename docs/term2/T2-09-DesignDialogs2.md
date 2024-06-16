@@ -1,4 +1,4 @@
-# **Designing Dialogs 2**
+# **Design Dialogs 2**
 
 
 ![Design dialogs 2 inauguration](../images/T2_DD2.PNG)
