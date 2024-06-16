@@ -1,6 +1,6 @@
 # **OSBioMoSys Projects**
 
-## An open-source camera trap module to study small animals
+## An open-source camera trail module to study small animals
 
 ### Values, principles and specifictions of the project
 
@@ -12,11 +12,9 @@
 
 ### Stakeholders
 
-![Possible stakeholders](../images/MP_possibleStakeholders.jpg)
+![Stakeholders](../images/MP_possibleStakeholders.jpg)
 
-### Poster
 
-![Design dialogs 2 poster](../images/MP_poster1.jpg)
 
 
 ### Steps
@@ -43,6 +41,55 @@ allowfullscreen="true"
 mozallowfullscreen="true"
 webkitallowfullscreen="true">
 </iframe>
+
+
+#### Step 3: Testing components
+
+
+
+### Resources
+
+![Design dialogs 2 poster](../images/MP_poster1.jpg)
+
+
+??? quote "Resources used"
+    - https://dronebotworkshop.com/xiao-esp32s3-sense/
+    - https://wikifab.org/wiki/Getting_Started_with_Xiao_ESP32_S3_Sense
+    - [ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP32-CAM_MJPEG2SD?tab=readme-ov-file#motion-detection-by-camera)
+    - https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
+    - [ESP32-CAM Take Photo with PIR Sketch](https://randomnerdtutorials.com/esp32-cam-pir-motion-detector-photo-capture/)
+    - [ESP32-CAM Take Photo and Save to MicroSD Card](https://randomnerdtutorials.com/esp32-cam-take-photo-save-microsd-card/)
+    - [Tiny Outdoor Camera By Markus Opitz](https://www.instructables.com/Tiny-Outdoor-Camera/)
+    - [Seeed Studio XIAO EXHIBITION](https://wiki.seeedstudio.com/xiao_topic_page/)
+    - [Camera Usage in Seeed Studio XIAO ESP32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_camera_usage/#taking-photos-with-the-camera)
+    - [File System and XIAO ESP32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/)
+    - [ESP32 TTGO T-Camera with PIR Sensor and OLED Display Board – Review and Pinout](https://makeradvisor.com/esp32-ttgo-t-camera-pir-sensor-oled/)
+    - []()
+    - []()
+    
+    
+??? quote "Resources for improvements in the next prototypes"
+    - [TinyML Made Easy: Image Classification w/ XIAO ESP32S3 Sense. Exploring Machine Learning on the tiny device of the Seeed XIAO family, the ESP32S3 Sense and SenseCraft-Web-Toolkit](https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae)
+    - [ESP32-CAM Video Streaming and Face Recognition with Arduino IDE](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)
+    
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Follow us on [@OSBioMoSys](https://www.instagram.com/osbiomosys/)
