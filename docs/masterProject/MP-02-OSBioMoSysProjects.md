@@ -15,8 +15,6 @@
 ![Stakeholders](../images/MP_possibleStakeholders.jpg)
 
 
-
-
 ### Steps
 
 #### Step 1: Engage communities with my project and involve myself with communities.
@@ -30,6 +28,10 @@ We have at our disposal a technology that allows us to better understand the wor
 I appeal to the softwired nature of human biology and psychology. That is to say, to that part that can be shaped by social and individual influences, to demand more empathetic behaviors towards the rest of the elements with which we share existence. Although it may not always be like this, I want to keep thinking that to know and understand is to love and respect. For this reason, this project is aimed at empowering people who try to understand the world to protect it is a priority of this project.
 
 ![Working with communities](../images/MP_communities.PNG)
+
+During the course of this project, many people have been spoken to. Starting with the thematic reviews and pediatric reviews of the master's degree itself, to meetings with the working group and thematic workshops with researchers and coordinators of citizen science programs. [See acknowledgments section.](../masterProject/MP-05-PeopleAcknowledgments.md) 
+
+
 
 #### Step 2: Understanding commercial trail cameras
 
