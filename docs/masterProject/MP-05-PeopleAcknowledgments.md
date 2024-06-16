@@ -41,7 +41,7 @@ Below is a representation, but not all, of the people who have contributed.
 - **Raül Calderon**. Ornithologist.
 - **Andreu Carretero Serra**. Ornithologist.
 - **Hèctor Andino**. Biologist, ornithologist.
-- **Txela**. Ornithologist
+- **Gisela Boba Cartanyà**. Ornithologist
 - **Arnau Bonan Barfull**. Biologist, ornithologist. Willdlife consultant.
 
 
