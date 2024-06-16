@@ -73,6 +73,7 @@ The results:
 
 ### Resources
 
+Design dialogs 2 poster
 ![Design dialogs 2 poster](../images/MP_poster1.jpg)
 
 
@@ -88,14 +89,19 @@ The results:
     - [Camera Usage in Seeed Studio XIAO ESP32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_camera_usage/#taking-photos-with-the-camera)
     - [File System and XIAO ESP32S3 Sense](https://wiki.seeedstudio.com/xiao_esp32s3_sense_filesystem/)
     - [ESP32 TTGO T-Camera with PIR Sensor and OLED Display Board – Review and Pinout](https://makeradvisor.com/esp32-ttgo-t-camera-pir-sensor-oled/)
-    - []()
-    - []()
+    - https://www.instructables.com/Simple-Raspberry-Pi-Camera-Trap-Made-From-a-Food-C/
+    - https://www.hackster.io/nootropicdesign/wi-fi-camera-trap-faea46
+    - https://www.gearcheckers.com/en/trail-cameras/how-does-trail-camera-work/
+    
+    
     
     
 ??? quote "Resources for improvements in the next prototypes"
     - [TinyML Made Easy: Image Classification w/ XIAO ESP32S3 Sense. Exploring Machine Learning on the tiny device of the Seeed XIAO family, the ESP32S3 Sense and SenseCraft-Web-Toolkit](https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae)
     - [ESP32-CAM Video Streaming and Face Recognition with Arduino IDE](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)
-    
+    - https://www.instructables.com/Sharing-ESP32S3-CAM-Pictures-on-Telegram/
+    - 
+
 
    
     
