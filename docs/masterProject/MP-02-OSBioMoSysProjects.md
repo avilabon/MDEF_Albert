@@ -42,7 +42,7 @@ I appeal to the softwired nature of human biology and psychology. That is to say
 
 ![Working with communities](../images/MP_communities.PNG)
 
-During the course of this project, many people have been spoken to. Starting with the thematic reviews and pediatric reviews of the master's degree itself, to meetings with the working group and thematic workshops with researchers and coordinators of citizen science programs. [See acknowledgments section.](../masterProject/MP-05-PeopleAcknowledgments.md) 
+During the course of this project, many people have been spoken to. From thematic reviews and periodic reviews of the master's degree itself, to meetings with the working group and thematic workshops with researchers and coordinators of citizen science programs.[See acknowledgments section.](../masterProject/MP-05-PeopleAcknowledgments.md) 
 
 
 #### Understanding commercial trail cameras an other commercial devices
@@ -78,12 +78,22 @@ To compare the results and at the same time determine the parameters of focus, d
 The results:
 ![Testing camera results](../images/MP_TestingCamerasResults.PNG)
 
+### Components diagram
 
+Work in progress...
+
+### 3D Printed Parts
+
+Work in progress...
+
+### Operation modes
+
+Work in progress...
 
 ### Resources
 
-Design dialogs 2 poster
-![Design dialogs 2 poster](../images/MP_poster1.jpg)
+Final project poster
+![Final poster](../images/CameraTrapPoster_v170624.jpg)
 
 
 ??? quote "Resources used"
