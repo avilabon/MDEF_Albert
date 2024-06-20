@@ -29,7 +29,7 @@ webkitallowfullscreen="true">
 ***Provide researchers and citizen science with robust and reliable technologies that are open-source and low-cost and that serve to improve knowledge and conservation of biodiversity.***
 
 **Contributions:**
-I want to create bridges, artifacts, methodologies and tools so that people who study biodiversity and natural systems can take advantage of some of the so-called new technologies. Also democratize access to the study of biodiversity through citizen science.
+We want to create bridges, artifacts, methodologies and tools so that people who study biodiversity and natural systems can take advantage of some of the so-called new technologies. Also democratize access to the study of biodiversity through citizen science.
 
 
 **Impacts:**
@@ -60,7 +60,6 @@ Have you ever wondered what would happen if we better understood the consequence
 | Now | 5 years | 10 years | 15 years |
 | -------- | -------- | -------- | -------- |
 | Create the first prototypes and grow and strengthen the associated community   | Have consolidated a solid network that functions independently, creating bridges between different research groups, nature managers and citizen science programs     | The study of biodiversity has become sufficiently democratized to impact collective decisions.    | Citizen science and knowledge of biodiversity are a key point in making political and personal decisions thanks to knowledge, respect and love for other living beings.     |
-
 
 
 ## Our personality (archetypes)

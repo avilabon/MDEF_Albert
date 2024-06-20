@@ -2,6 +2,15 @@
 
 ## An open-source camera trail module to study small animals
 
+### Abstract
+
+Open Source Biodiversity Monitoring Systems aims to bridge biodiversity and technology, providing open-source, low-cost, and reliable technologies for researchers and citizen science to enhance biodiversity knowledge and conservation.
+
+1: By Introducting of the FabLab culture and new technological resources to biodiversity researchers, fostering synergies and future collaborations.
+
+2: By prototyping a small, modular trail camera for studying small animals at short distances, using standardized and low-cost components to support large-scale field studies of organisms such micromammals or pollinators.
+
+
 ### Values, principles and specifictions of the project
 
 ![Project values, principles and spec](../images/MP_ProjectValuesPrincipleSpecs.jpg)
