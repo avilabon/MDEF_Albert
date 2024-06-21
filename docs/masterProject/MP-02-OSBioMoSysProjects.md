@@ -59,6 +59,9 @@ webkitallowfullscreen="true">
 
 #### Testing components
 
+![Component](../images/MP_Components.JPG)
+
+
 **The lens**
 
 To study small animals you need a lens that focuses at a short distance. Of all the commercial trail camera models, we have only found one model launched very recently capable of focusing at a distance of 15 cm, designed for small mammals. The only drawback is that its price exceeds $650.
@@ -80,15 +83,20 @@ The results:
 
 ### Components diagram
 
+![Configuration and modules](../images/MP_ModulesConfiguration.JPG)
+
 Work in progress...
 
 ### 3D Printed Parts
 
 Work in progress...
 
+![Modular](../images/MP_ModularSystem.JPG)
+
 ### Operation modes
 
 Work in progress...
+![Modes](../images/MP_Modes.JPG)
 
 ### Resources
 
