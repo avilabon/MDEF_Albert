@@ -95,8 +95,11 @@ Work in progress...
 
 ### Operation modes
 
-Work in progress...
 ![Modes](../images/MP_Modes.JPG)
+
+!!! quote "The code"
+    - The code is under review. It wil be available for download very soon!
+
 
 ### Resources
 

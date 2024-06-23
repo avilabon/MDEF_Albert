@@ -27,8 +27,8 @@ Step 3: Feedback
 The last step is to offer back the shared vision to the original cell, in order to provide new insights and stimulate alternative perspectives.
 
 
-## Pictorial 1 [Albert's project draft pictorial]
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaFr4dV20LRlSXwdKME7Zhf_3ybIiNLH9Q64-jN7NeXQ3QuXn6SOHnsfS0ZFVKwI6X1WipqK6o5wjX/embed?start=false&loop=false&delayms=3000" 
+## Pictorial 1 [Albert's project final pictorial. 06-2024]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTo69O6MZhKJ-Ur5-GGPk_ha8Z88I1XirgWk6jjU_kJ2Xy82PEWHz3SQ92JJlwcJvmnMvyFRyHfV-OR/embed?start=false&loop=false&delayms=3000" 
 frameborder="0"
 width="100%"
 height="500"
@@ -38,7 +38,30 @@ webkitallowfullscreen="true">
 </iframe>
 
 
-## Pictorial 2 [Nico's project draft pictorial]
+### Pictorial 1 [Albert's project draft pictorial. 03-2024]
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaFr4dV20LRlSXwdKME7Zhf_3ybIiNLH9Q64-jN7NeXQ3QuXn6SOHnsfS0ZFVKwI6X1WipqK6o5wjX/embed?start=false&loop=false&delayms=3000" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+</iframe>
+
+## Pictorial 2 [Nico's project final draft pictorial. 06-2024]
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl5nmwA8BArL_Ix6PqGowwY2aSpJaRdatTB5C0AG6e3qLjRbVCE10Lnoh9N_tSpSsTiWLj9ie9Qv7L/embed?start=false&loop=false&delayms=3000" 
+frameborder="0"
+width="100%"
+height="500"
+allowfullscreen="true"
+mozallowfullscreen="true"
+webkitallowfullscreen="true">
+
+</iframe>
+
+
+### Pictorial 2 [Nico's project draft pictorial. 03-2024]
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtSXBDAjhlXc8iOCmZjZY_H5mt6C8EpJEpZI1WBKo2H7cQZGSkhF_tvcwzv0p9oEMMl9IuaVvy-XtO/embed?start=false&loop=false&delayms=3000" 
 frameborder="0"
@@ -49,7 +72,19 @@ mozallowfullscreen="true"
 webkitallowfullscreen="true">
 </iframe>
 
-## Pictorial 3  [Ever's project draft pictorial]
+
+## Pictorial 3  [Ever's final project pictorial. 06-2024]
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKh5lCtefUOmXoSZMbDuV-V12b0EPAzZp9pNSlJqNIvVET4m9OspYfon-TrjWVNVhxF0UbxipysFH2/embed?start=false&loop=false&delayms=3000"
+frameborder="0" 
+width="100%" 
+height="500" 
+allowfullscreen="true" 
+mozallowfullscreen="true" 
+webkitallowfullscreen="true"> 
+</iframe>
+
+### Pictorial 3  [Ever's project draft pictorial. 03-2024]
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz59nIOX6B0_Ru4Sqrda-XuD7FYJLqKPAu9P60m7cQqGN18gnvDyXExPg1GAzz_QS5pyTfpqvclao0/embed?start=false&loop=false&delayms=3000" 
 frameborder="0" 
@@ -59,4 +94,6 @@ allowfullscreen="true"
 mozallowfullscreen="true" 
 webkitallowfullscreen="true"> 
 </iframe>
+
+
 
